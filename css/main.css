@@ -83,30 +83,28 @@ h2>em {
 #menu{
   list-style-type:none;
   text-align: center;
+  font-size: 1.2rem;
 }
 
 #menu li {
   display: inline;
-  margin-right: 1em;
+  margin: 0;
   text-transform: uppercase;
 }
 
-#menu li::before {
+#menu li:before {
   content:"—";
-  margin-right: 1em;
+  padding-right: 1em;
+  padding-left: 1em;
   margin-left: -4px; /*décalage d'origine inconnue*/
   background-color: #EEEEEE;
 }
 
-#menu li:first-of-type::before {
+#menu li:first-of-type:before {
   content:"";
   margin-right:0;
 }
 
-#menu a:hover  {
-  background-color: #E74255;
-  color:white;
-}
 
 #menu li:last-of-type {
   margin-right: 0;
@@ -115,8 +113,13 @@ h2>em {
 #menu a {
   text-decoration: none;
   color:inherit;
+  padding: 0.5em 0.2em 0.2em 0.2em;
 }
 
+#menu a:hover {
+  background-color: #E74255;
+  color:white;
+}
 
 
 /* Sections */
@@ -127,6 +130,7 @@ h2>em {
   width: 80%;
   margin:150px auto auto auto;
   padding: 2em;
+  height: 900px;
 }
 
 #flyer { /*Ombre sur la page d'accueil*/
@@ -134,7 +138,6 @@ h2>em {
 }
 
 header {
-  height: 150px;
   width: 100%;
   position: fixed;
   top: 0;
