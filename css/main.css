@@ -8,8 +8,8 @@ html {
 
 /*---------- Style global ----------*/
 body {
-  color:#B0B0B0;
-  background-color: #EEEEEE;
+  color:#B0B0B0; /*gris foncé*/
+  background-color: #EEEEEE; /*gris clair*/
   font-family: 'Josefin Sans', sans-serif;
 }
 
@@ -17,12 +17,12 @@ body {
 /*---------- UI elements ----------*/
 
 /* Logos */
-.lcst_logo {
+.logo {
   display:inline-block;
   font-style: italic;
   font-weight:100;
-  font-size: 1.5rem;
-  padding: 0.2em 0.7em 0.2em 0.7em;
+  font-size: 1.7rem;
+  padding: 0.4em 0.7em 0.2em 0.7em;
   margin: 0.2em;
 }
 
@@ -77,6 +77,13 @@ h2>em {
   color:#E74255;
   border:2px solid #E74255;
 }
+ #btn_menu {
+   font-size: 1.7rem;
+   float: right;
+   padding: 0.4em 0.7em 0.2em 0.7em;
+   margin: 0.2em;
+   display: none; /*à mettre dans une media query min-width*/
+ }
 
 /* Menu */
 
@@ -84,42 +91,23 @@ h2>em {
   list-style-type:none;
   text-align: center;
   font-size: 1.2rem;
-}
-
-#menu li {
-  display: inline;
-  margin: 0;
   text-transform: uppercase;
-}
-
-#menu li:before {
-  content:"—";
-  padding-right: 1em;
-  padding-left: 1em;
-  margin-left: -4px; /*décalage d'origine inconnue*/
-  background-color: #EEEEEE;
-}
-
-#menu li:first-of-type:before {
-  content:"";
-  margin-right:0;
-}
-
-
-#menu li:last-of-type {
-  margin-right: 0;
+  padding-left: 0;
 }
 
 #menu a {
   text-decoration: none;
   color:inherit;
   padding: 0.5em 0.2em 0.2em 0.2em;
+  line-height: 2em;
 }
 
-#menu a:hover {
+#menu a:hover, #menu .actif {
   background-color: #E74255;
   color:white;
 }
+
+
 
 
 /* Sections */
@@ -145,4 +133,65 @@ header {
   padding: 5px;
   background-color: #EEEEEE;
   z-index:1;
+}
+
+/* media queries */
+@media (min-width:951px){
+
+  #menu li {
+    display: inline;
+  }
+
+  #menu li:before {
+    content:"—";
+    padding-right: 1em;
+    padding-left: 1em;
+    margin-left: -4px; /*décalage d'origine inconnue*/
+  }
+
+  #menu li:first-of-type:before {
+    content:"";
+    padding-left: 0;
+    margin-left: 0;
+  }
+
+
+  .logo {
+    font-size: 1.7rem;
+  }
+
+}
+
+@media (max-width:950px) {
+  .logo {
+    float:left;
+    font-size: 1.3rem;
+  }
+  #lyonvill {
+    display: none;
+  }
+  .container {
+    margin-top: 60px;
+    width:100%;
+  }
+
+  /*Drop down menu*/
+
+  /*Affiche l'icone*/
+  #btn_menu {
+    display: block;
+    font-size: 1.3rem;
+  }
+
+  /* sous le logo */
+  #menu {
+    clear:left;
+    padding-top: 1em;
+    display:none;
+  }
+
+  #menu.present {
+    display: block;
+  }
+
 }
