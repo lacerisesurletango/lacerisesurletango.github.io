@@ -1,0 +1,145 @@
+/* border-box partout */
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/*---------- Style global ----------*/
+body {
+  color:#B0B0B0;
+  background-color: #EEEEEE;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+
+/*---------- UI elements ----------*/
+
+/* Logos */
+.lcst_logo {
+  display:inline-block;
+  font-style: italic;
+  font-weight:100;
+  font-size: 1.5rem;
+  padding: 0.2em 0.7em 0.2em 0.7em;
+  margin: 0.2em;
+}
+
+#logo_clair {
+  border: 1px solid #B0B0B0;
+}
+
+#logo_red {
+  border: 0;
+  color: white;
+  background-color: #E74255;
+}
+
+/* Titres avec lignes sur les côtés */
+
+h2 {
+  display: table;
+  white-space: nowrap;
+  text-transform: uppercase;
+}
+
+h2:before, h2:after {
+   border-top: 1px solid #B0B0B0;
+   content: '';
+   display: table-cell;
+   position: relative;
+   top: 0.7em;
+   width: 45%;
+ }
+
+h2:before { right: 1.5%; }
+h2:after { left: 1.5%; }
+
+/* Pour agrandir des parties de titre avec <em> */
+h2>em {
+  font-size: 1.3em;
+  font-style: normal;
+}
+
+/* boutons */
+
+.btn {
+  color: white;
+  text-decoration: none;
+  font-size: 1.2rem;
+  background-color: #E74255;
+  padding: 0.2em 1em 0.2em 1em;
+}
+
+.btn:hover {
+  background-color: white;
+  color:#E74255;
+  border:2px solid #E74255;
+}
+
+/* Menu */
+
+#menu{
+  list-style-type:none;
+  text-align: center;
+}
+
+#menu li {
+  display: inline;
+  margin-right: 1em;
+  text-transform: uppercase;
+}
+
+#menu li::before {
+  content:"—";
+  margin-right: 1em;
+  margin-left: -4px; /*décalage d'origine inconnue*/
+  background-color: #EEEEEE;
+}
+
+#menu li:first-of-type::before {
+  content:"";
+  margin-right:0;
+}
+
+#menu a:hover  {
+  background-color: #E74255;
+  color:white;
+}
+
+#menu li:last-of-type {
+  margin-right: 0;
+}
+
+#menu a {
+  text-decoration: none;
+  color:inherit;
+}
+
+
+
+/* Sections */
+
+
+.container { /* pour le contenu principal */
+  background-color: white;
+  width: 80%;
+  margin:150px auto auto auto;
+  padding: 2em;
+}
+
+#flyer { /*Ombre sur la page d'accueil*/
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
+}
+
+header {
+  height: 150px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  text-align: center;
+  padding: 5px;
+  background-color: #EEEEEE;
+  z-index:1;
+}
