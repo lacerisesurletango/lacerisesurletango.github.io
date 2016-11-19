@@ -8,22 +8,34 @@ html {
 
 /*---------- Style global ----------*/
 body {
-  color:#B0B0B0; /*gris foncé*/
+  color:#878787; /*gris foncé*/
   background-color: #EEEEEE; /*gris clair*/
   font-family: 'Josefin Sans', sans-serif;
 }
 
+a {
+  color:#E74255;
+}
+
+p a:visited {
+  color: #e7949e; /*rouge plus clair*/
+}
+
+a:active {
+  box-shadow: 0 0 0 0; /*Supprime l'ombre des boutons cliquables*/
+}
 
 /*---------- UI elements ----------*/
 
 /* Logos */
 .logo {
-  display:inline-block;
+  display:inline-block; /* pour encadrer */
   font-style: italic;
   font-weight:100;
-  font-size: 1.7rem;
+  color:#878787; /*gris foncé*/
+  /*font size hérité de h1*/
   padding: 0.4em 0.7em 0.2em 0.7em;
-  margin: 0.2em;
+  margin: 0.4em;
 }
 
 #logo_clair {
@@ -45,20 +57,20 @@ h2 {
 }
 
 h2:before, h2:after {
-   border-top: 1px solid #B0B0B0;
-   content: '';
-   display: table-cell;
-   position: relative;
-   top: 0.7em;
-   width: 45%;
- }
+  border-top: 1px solid #B0B0B0;
+  content: '';
+  display: table-cell;
+  position: relative;
+  top: 0.7em;
+  width: 45%;
+}
 
 h2:before { right: 1.5%; }
 h2:after { left: 1.5%; }
 
 /* Pour agrandir des parties de titre avec <em> */
 h2>em {
-  font-size: 1.3em;
+  font-size: 1.3em; /*30% plus grand que h2*/
   font-style: normal;
 }
 
@@ -66,10 +78,11 @@ h2>em {
 
 .btn {
   color: white;
-  text-decoration: none;
-  font-size: 1.2rem;
+  text-decoration: none; /*supprime le soulignage des liens*/
   background-color: #E74255;
-  padding: 0.2em 1em 0.2em 1em;
+  border:1px solid #E74255;
+  padding: 0.5em 0.8em 0.4em 0.8em;
+  box-shadow: 0 1px 2px 0 rgba(0,0,0,0.2);
 }
 
 .btn:hover {
@@ -77,13 +90,11 @@ h2>em {
   color:#E74255;
   border:2px solid #E74255;
 }
- #btn_menu {
-   font-size: 1.7rem;
-   float: right;
-   padding: 0.4em 0.7em 0.2em 0.7em;
-   margin: 0.2em;
-   display: none; /*à mettre dans une media query min-width*/
- }
+#btn_menu {
+  float: right;
+  padding: 0.4em 0.7em 0.2em 0.7em;
+  margin: 0.4em;
+}
 
 /* Menu */
 
@@ -107,22 +118,16 @@ h2>em {
   color:white;
 }
 
-
-
-
 /* Sections */
-
 
 .container { /* pour le contenu principal */
   background-color: white;
-  width: 80%;
-  margin:150px auto auto auto;
-  padding: 2em;
+
   height: 900px;
 }
 
 #flyer { /*Ombre sur la page d'accueil*/
-    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
+box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
 }
 
 header {
@@ -130,49 +135,70 @@ header {
   position: fixed;
   top: 0;
   text-align: center;
-  padding: 5px;
   background-color: #EEEEEE;
+
   z-index:1;
 }
 
 /* media queries */
-@media (min-width:951px){
+@media (min-width:951px){ /*Encran large : TODO breakpoint à déterminé en fonction du nombre d'item du menu*/
 
-  #menu li {
-    display: inline;
-  }
+/*Taille du logo*/
+h1 {
+  font-size: 1.7rem;
+}
 
-  #menu li:before {
-    content:"—";
-    padding-right: 1em;
-    padding-left: 1em;
-    margin-left: -4px; /*décalage d'origine inconnue*/
-  }
+/* Menu écran large */
+#btn_menu {
+  display: none;
+}
 
-  #menu li:first-of-type:before {
-    content:"";
-    padding-left: 0;
-    margin-left: 0;
-  }
+#menu li {
+  display: inline;
+}
 
+#menu li:before {
+  content:"—";
+  padding-right: 1em;
+  padding-left: 1em;
+  margin-left: -4px; /*décalage d'origine inconnue*/
+}
 
-  .logo {
-    font-size: 1.7rem;
-  }
+#menu li:first-of-type:before {
+  content:"";
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.container {
+  margin: 10rem auto auto auto;
+  padding: 2em;
+  width: 80%;
+}
+
+header {
+  padding-top: 0.4em;
+}
+
 
 }
 
 @media (max-width:950px) {
+
+  header {
+    font-size: 1.3rem;
+  }
+
   .logo {
     float:left;
-    font-size: 1.3rem;
+    font-size:inherit;
   }
   #lyonvill {
     display: none;
   }
   .container {
-    margin-top: 60px;
     width:100%;
+    padding: 5.3rem 2rem 2rem 2rem;
   }
 
   /*Drop down menu*/
@@ -180,14 +206,15 @@ header {
   /*Affiche l'icone*/
   #btn_menu {
     display: block;
-    font-size: 1.3rem;
   }
 
   /* sous le logo */
   #menu {
     clear:left;
+    background-color: #E4E4E4;
     padding-top: 1em;
     display:none;
+    box-shadow: inset 0 0 2px 0 rgba(0,0,0,0.2);
   }
 
   #menu.present {
