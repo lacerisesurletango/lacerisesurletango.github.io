@@ -10,7 +10,11 @@ html {
 body {
   color:#878787; /*gris foncé*/
   background-color: #EEEEEE; /*gris clair*/
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Lato', sans-serif;
+}
+
+h1,h2,h3,h4,h5 {
+  font-family: 'Josefin Sans','Lato',  sans-serif;
 }
 
 a {
@@ -23,6 +27,48 @@ p a:visited {
 
 a:active {
   box-shadow: 0 0 0 0; /*Supprime l'ombre des boutons cliquables*/
+}
+
+p {
+  text-align: justify;
+}
+
+/*-------Page d'accueil---------*/
+#accueil {
+  background-color: #8EC8A8; /*vert amande*/
+  background-image: url(../img/accueil.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: top left;
+  background-attachment: fixed;
+}
+#accueil body {
+  background-color: transparent;
+  color:#E74255;
+  font-size: 1.4rem;
+  text-align:center;
+  padding-top: 2em;
+  text-shadow: 1px 1px 0 rgba(100,100,100, 0.5); /*augmente la lisibilité des textes rouges sur fond vert*/
+}
+
+#accueil .container {
+  margin: 1em auto; /*marges différentes des pages avec menu*/
+  text-shadow: none;
+  color:#B0B0B0;
+}
+
+#minimenu {
+  text-align: center;
+}
+
+#minimenu a, #minimenu a:visited{
+  font-weight: bold;
+  text-decoration: none;
+  color:inherit;
+}
+
+#minimenu a:hover {
+  text-decoration: underline;
 }
 
 /*---------- UI elements ----------*/
@@ -48,15 +94,20 @@ a:active {
   background-color: #E74255;
 }
 
+
+
 /* Titres avec lignes sur les côtés */
 
 h2 {
   display: table;
   white-space: nowrap;
   text-transform: uppercase;
+
+  line-height: 1.5em; /*règlage de la hauteur des traits à droite et à gauche*/
 }
 
-h2:before, h2:after {
+
+h2::before, h2::after {
   border-top: 1px solid #B0B0B0;
   content: '';
   display: table-cell;
@@ -65,8 +116,9 @@ h2:before, h2:after {
   width: 45%;
 }
 
-h2:before { right: 1.5%; }
-h2:after { left: 1.5%; }
+
+h2::before { right: 1.5%; }
+h2::after { left: 1.5%; }
 
 /* Pour agrandir des parties de titre avec <em> */
 h2>em {
@@ -77,19 +129,24 @@ h2>em {
 /* boutons */
 
 .btn {
-  color: white;
+  display: inline-block;
   text-decoration: none; /*supprime le soulignage des liens*/
-  background-color: #E74255;
   border:1px solid #E74255;
   padding: 0.5em 0.8em 0.4em 0.8em;
+  margin: 1em;
   box-shadow: 0 1px 2px 0 rgba(0,0,0,0.2);
 }
 
-.btn:hover {
+.btn-red, .btn-white:hover{
+  background-color: #E74255;
+  color: white;
+}
+
+.btn-white, .btn-red:hover{
   background-color: white;
   color:#E74255;
-  border:2px solid #E74255;
 }
+
 #btn_menu {
   float: right;
   padding: 0.4em 0.7em 0.2em 0.7em;
@@ -122,8 +179,7 @@ h2>em {
 
 .container { /* pour le contenu principal */
   background-color: white;
-
-  height: 900px;
+  text-align: center;
 }
 
 #flyer { /*Ombre sur la page d'accueil*/
@@ -140,12 +196,35 @@ header {
   z-index:1;
 }
 
+footer {
+  font-size: 1rem;
+  max-width:400px;
+  margin: auto;
+}
+
+footer p {
+  text-align: center;
+  margin-top: 0;
+}
+
+footer>h2 {
+  font-size: 1em;
+  margin-bottom: 0;
+  text-transform: none;
+}
+
 /* media queries */
-@media (min-width:951px){ /*Encran large : TODO breakpoint à déterminé en fonction du nombre d'item du menu*/
+@media (min-width:951px){ /*Encran large : TODO breakpoint à déterminer en fonction du nombre d'item du menu*/
+
+/* texte accueil sur la droite */
+#accueil body {
+  width: 66.66%;
+  float:right;
+}
 
 /*Taille du logo*/
 h1 {
-  font-size: 1.7rem;
+  font-size: 1.7em;
 }
 
 /* Menu écran large */
@@ -153,18 +232,20 @@ h1 {
   display: none;
 }
 
+
 #menu li {
   display: inline;
 }
 
-#menu li:before {
+#menu li::before {
   content:"—";
   padding-right: 1em;
   padding-left: 1em;
   margin-left: -4px; /*décalage d'origine inconnue*/
+  padding-bottom: 1em;
 }
 
-#menu li:first-of-type:before {
+#menu li:first-of-type::before {
   content:"";
   padding-left: 0;
   margin-left: 0;
@@ -185,13 +266,29 @@ header {
 
 @media (max-width:950px) {
 
+  #accueil {
+    background-attachment: scroll;
+  }
+
+  #accueil-logo {
+
+    font-size: 1.7em;
+    text-align: center;
+    overflow: hidden;
+  }
+
+  #accueil-logo .logo {
+    margin: 20% 10% 20% 10%;
+    float: right;
+  }
+
   header {
     font-size: 1.3rem;
   }
 
   .logo {
     float:left;
-    font-size:inherit;
+    font-size: inherit;
   }
   #lyonvill {
     display: none;
@@ -219,6 +316,19 @@ header {
 
   #menu.present {
     display: block;
+  }
+
+}
+
+
+@media (max-width:460px) {
+
+  h2 {
+    white-space: normal; /*retour à la ligne des titres trop longs*/
+  }
+
+  footer h2 {
+    white-space: nowrap;
   }
 
 }

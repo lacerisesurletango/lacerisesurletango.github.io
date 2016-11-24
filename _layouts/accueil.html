@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang=fr id="accueil">
+
+  {% include head.html %}
+
+  <body>
+
+<div id="accueil-logo">
+  <div id="lyonvill">— Lyon - Villeurbanne —</div>
+  <a href="/"><h1 class="logo" id="logo_red">La Cerise sur le Tango</h1></a>
+</div>
+
+
+    <div class="container" id="flyer">
+      {{ content }}
+    </div>
+
+    <p id="minimenu">
+      <a href="/association.html">L'association</a>  — <a href="/photos-videos.html">Photos &amp; Vidéos</a>  — <a href="/le-tango-argentin.html">Le tango argentin</a>  — <a href="/contact.html">Contact</a>
+    </p>
+    {% include footer.html %}
+
+  </body>
+
+</html>
