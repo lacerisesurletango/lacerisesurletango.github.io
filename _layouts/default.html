@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-  <body>
+  <body {% if page.url == '/photos-videos.html'%} class="dark" {% endif %}>
 
     {% include header.html %}
     <div class="container" id="flyer">
