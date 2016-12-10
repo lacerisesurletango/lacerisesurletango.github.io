@@ -1,3 +1,12 @@
+/* Couleurs
+#878787; gris foncé
+#EEEEEE; gris clair
+#E74255; rouge
+#E7949E; rouge plus clair
+#8EC8A8; vert amande
+#B0B0B0;
+*/
+
 /* border-box partout */
 html {
   box-sizing: border-box;
@@ -8,22 +17,9 @@ html {
 
 /*---------- Style global ----------*/
 body {
-  color:#878787; /*gris foncé*/
-  background-color: #EEEEEE; /*gris clair*/
+  color:#878787;
+  background-color: #EEEEEE;
   font-family: 'Lato', sans-serif;
-}
-
-.dark {
-  transition: background-color 2s ease;
-}
-
-.dark .container {
-  background-color: transparent;
-  }
-
-.dark:hover {
-  color: white;
-  background-color: black;
 }
 
 h1,h2,h3,h4,h5 {
@@ -46,9 +42,24 @@ p {
   text-align: justify;
 }
 
+/*------------ Style sombre --------------*/
+.dark {
+  transition: background-color 2s ease;
+}
+
+.dark .container {
+  background-color: transparent;
+  }
+
+.dark:hover {
+  color: white;
+  background-color: black;
+}
+
 /*-------Page d'accueil---------*/
+
 #accueil {
-  background-color: #8EC8A8; /*vert amande*/
+  background-color: #8EC8A8;
   background-image: url(../img/accueil.jpg);
   background-size: contain;
   background-repeat: no-repeat;
@@ -67,7 +78,7 @@ p {
 #accueil .container {
   margin: 1em auto; /*marges différentes des pages avec menu*/
   text-shadow: none;
-  color:#B0B0B0;
+  color:#878787;
 }
 
 #minimenu {
@@ -91,14 +102,14 @@ p {
   display:inline-block; /* pour encadrer */
   font-style: italic;
   font-weight:100;
-  color:#878787; /*gris foncé*/
+  color:#878787;
   /*font size hérité de h1*/
   padding: 0.4em 0.7em 0.2em 0.7em;
   margin: 0.4em;
 }
 
 #logo_clair {
-  border: 1px solid #B0B0B0;
+  border: 1px solid #878787;
 }
 
 #logo_red {
@@ -109,19 +120,18 @@ p {
 
 
 
-/* Titres avec lignes sur les côtés */
+/* Titres h2 avec lignes sur les côtés */
 
 h2 {
   display: table;
   white-space: nowrap;
   text-transform: uppercase;
-
   line-height: 1.5em; /*règlage de la hauteur des traits à droite et à gauche*/
 }
 
 
 h2::before, h2::after {
-  border-top: 1px solid #B0B0B0;
+  border-top: 1px solid #878787;
   content: '';
   display: table-cell;
   position: relative;
@@ -143,7 +153,7 @@ h2>em {
 
 .btn {
   display: inline-block;
-  text-decoration: none; /*supprime le soulignage des liens*/
+  text-decoration: none;
   border:1px solid #E74255;
   padding: 0.5em 0.8em 0.4em 0.8em;
   margin: 1em;
@@ -160,20 +170,20 @@ h2>em {
   color:#E74255;
 }
 
-#btn_menu {
+#btn_menu { /*bouton menu smartphone*/
   float: right;
   padding: 0.4em 0.7em 0.2em 0.7em;
   margin: 0.4em;
 }
 
-/* Menu */
+/* Menu principal */
 
 #menu{
   list-style-type:none;
   text-align: center;
   font-size: 1.2rem;
   text-transform: uppercase;
-  padding-left: 0;
+  padding: 0;
 }
 
 #menu a {
@@ -193,19 +203,15 @@ h2>em {
 .container { /* pour le contenu principal */
   background-color: white;
   text-align: center;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
 }
 
-#flyer { /*Ombre sur la page d'accueil*/
-box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
-}
 
 header {
   width: 100%;
   position: fixed;
   top: 0;
   text-align: center;
-  /*background-color: #EEEEEE;*/
-
   z-index:1;
 }
 
@@ -245,7 +251,6 @@ h1 {
   display: none;
 }
 
-
 #menu li {
   display: inline;
 }
@@ -284,7 +289,6 @@ header {
   }
 
   #accueil-logo {
-
     font-size: 1.7em;
     text-align: center;
     overflow: hidden;
@@ -298,24 +302,25 @@ header {
   header {
     font-size: 1.3rem;
     background-color: #EEEEEE;
-    color: #B0B0B0;
+    color: #878787;
   }
 
   .logo {
     float:left;
     font-size: inherit;
   }
+
   #lyonvill {
     display: none;
   }
+
   .container {
     width:100%;
     padding: 5.3rem 2rem 2rem 2rem;
   }
 
-  /*Drop down menu*/
+  /*---- Drop down menu ----*/
 
-  /*Affiche l'icone*/
   #btn_menu {
     display: block;
   }
@@ -332,7 +337,6 @@ header {
   #menu.present {
     display: block;
   }
-
 }
 
 
