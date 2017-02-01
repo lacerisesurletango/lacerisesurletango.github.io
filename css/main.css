@@ -23,7 +23,7 @@ body {
   background-color: #EEEEEE;
   font-family: 'Lato', sans-serif;
   text-align: center;
-  transition: background-color 8s ease; /*transistions en cas de changement (ex. thème sombre)*/
+  transition: background-color 3s ease, color 3s ease; /*transistions en cas de changement (ex. thème sombre)*/
 }
 
 /* Titres */
@@ -90,14 +90,17 @@ p {
 }
 
 
-header {
+body>header {
   width: 100%;
+  background-color: inherit;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
   position: fixed;
   top: 0;
   z-index:1;
+  /*transition: background-color 3s ease;*/
 }
 
-header ul {
+body>header ul {
   /*margin-left: -2em;*/
   list-style-type: none;
 }
@@ -111,4 +114,14 @@ footer {
 
 footer p {
   text-align: center;
+}
+
+article .post-meta {
+  text-align: center;
+}
+
+/* Centre les images par défaut */
+img {
+  display: block;
+  margin: 0 auto;
 }
