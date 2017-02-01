@@ -110,3 +110,13 @@ a.btn-white, a.btn-red:hover{
   padding: 0.4em 0.7em 0.2em 0.7em;
   margin: 0.4em;
 }
+
+/* Formulaire */
+fieldset {
+  border-style: none;
+}
+
+input, textarea {
+  width: 50%;
+  min-width: 300px;
+}

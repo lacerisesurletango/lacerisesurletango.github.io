@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+
+<p>
+Pour toute demande par mail, merci d'utiliser le formulaire ci-dessous.
+</p>
+<p><em>Tous les champs sont obligatoires.</em>
+</p>
+
+<form id="form_contact" action="https://formspree.io/maxaccadia+fs@gmail.com" method="POST">
+
+<fieldset>
+  <input placeholder="Votre prénom" type="text" name="prenom" required />
+</fieldset>
+<fieldset>
+  <input placeholder="Votre nom" type="text" name="nom" required />
+</fieldset>
+<fieldset>
+  <input placeholder="Votre email" type="email" name="_replyto" required />
+</fieldset>
+<fieldset>
+  <input placeholder="Objet de votre message" type="text" name="_subject" required  />
+</fieldset>
+<fieldset>
+  <textarea placeholder="Votre message" name="texte" rows="10" required ></textarea>
+</fieldset>
+<fieldset>
+  <input type="submit" value="Envoyer" />
+</fieldset>
+
+<!--Pour envoyer vers une page spécifique après l'utilisation de formspree :-->
+<input type="hidden" name="_next" value="/contact-merci.html" />
+
+</form>
