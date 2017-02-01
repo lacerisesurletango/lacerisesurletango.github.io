@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default-dark
 ---
 
 ## Les _Cours_ de _Tango_

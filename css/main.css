@@ -44,17 +44,12 @@ p {
 
 /*------------ Style sombre --------------*/
 .dark {
-  transition: background-color 2s ease;
+  transition: background-color 2s linear;
 }
 
 .dark .container {
   background-color: transparent;
   }
-
-.dark:hover {
-  color: white;
-  background-color: black;
-}
 
 /*-------Page d'accueil---------*/
 

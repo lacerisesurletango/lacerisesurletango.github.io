@@ -3,7 +3,8 @@
 
   {% include head.html %}
 
-  <body>
+  <body class="dark">
+
 
     {% include header.html %}
     <div class="container">
@@ -11,6 +12,11 @@
     </div>
     {% include footer.html %}
 
+
+    <script>
+    document.querySelector(".dark").style.color = "white";
+    document.querySelector(".dark").style.backgroundColor = "black";
+    </script>
   </body>
 
 </html>
