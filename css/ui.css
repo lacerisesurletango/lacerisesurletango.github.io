@@ -30,6 +30,21 @@
   color:inherit;
 }
 
+/* Actualités */
+#listactu {
+  text-align: left;
+  list-style-type: none;
+}
+
+#listactu li {
+  padding : 0.5em 0 0.5em 0;
+}
+
+#listactu p {
+  display: inline;
+  text-align: center;
+}
+
 
 /* Logos */
 .logo {

@@ -9,7 +9,7 @@ html {
 body {
   background-color: transparent;
   color:#E74255;
-  font-size: 1.4rem;
+  font-size: 1rem;
   text-align:center;
   padding-top: 2em;
   /*text-shadow: 1px 1px 0 rgba(100,100,100, 0.5); */
@@ -20,6 +20,7 @@ body {
   text-shadow: none;
   color:#878787;
 }
+
 
 @media (min-width:951px){ /*Encran large : TODO breakpoint à déterminer en fonction du nombre d'item du menu*/
 
