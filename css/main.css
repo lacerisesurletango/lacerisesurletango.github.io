@@ -1,10 +1,12 @@
+/* Style de base */
+
 /* Couleurs
 #878787; gris foncé
-#EEEEEE; gris clair
+#B0B0B0; gris clair
+#EEEEEE; gris très clair
 #E74255; rouge
 #E7949E; rouge plus clair
 #8EC8A8; vert amande
-#B0B0B0;
 */
 
 /* border-box partout */
@@ -15,105 +17,19 @@ html {
   box-sizing: inherit;
 }
 
-/*---------- Style global ----------*/
+/* Couleurs et polices par défaut */
 body {
   color:#878787;
   background-color: #EEEEEE;
   font-family: 'Lato', sans-serif;
+  text-align: center;
+  transition: background-color 8s ease; /*transistions en cas de changement (ex. thème sombre)*/
 }
 
+/* Titres */
 h1,h2,h3,h4,h5 {
   font-family: 'Josefin Sans','Lato',  sans-serif;
 }
-
-a {
-  color:#E74255;
-}
-
-p a:visited {
-  color: #e7949e; /*rouge plus clair*/
-}
-
-a:active {
-  box-shadow: 0 0 0 0; /*Supprime l'ombre des boutons cliquables*/
-}
-
-p {
-  text-align: justify;
-}
-
-/*------------ Style sombre --------------*/
-.dark {
-  transition: background-color 2s linear;
-}
-
-.dark .container {
-  background-color: transparent;
-  }
-
-/*-------Page d'accueil---------*/
-
-#accueil {
-  background-color: #8EC8A8;
-  background-image: url(../img/accueil.jpg);
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: top left;
-  background-attachment: fixed;
-}
-#accueil body {
-  background-color: transparent;
-  color:#E74255;
-  font-size: 1.4rem;
-  text-align:center;
-  padding-top: 2em;
-  text-shadow: 1px 1px 0 rgba(100,100,100, 0.5); /*augmente la lisibilité des textes rouges sur fond vert*/
-}
-
-#accueil .container {
-  margin: 1em auto; /*marges différentes des pages avec menu*/
-  text-shadow: none;
-  color:#878787;
-}
-
-#minimenu {
-  text-align: center;
-}
-
-#minimenu a, #minimenu a:visited{
-  font-weight: bold;
-  text-decoration: none;
-  color:inherit;
-}
-
-#minimenu a:hover {
-  text-decoration: underline;
-}
-
-/*---------- UI elements ----------*/
-
-/* Logos */
-.logo {
-  display:inline-block; /* pour encadrer */
-  font-style: italic;
-  font-weight:100;
-  color:#878787;
-  /*font size hérité de h1*/
-  padding: 0.4em 0.7em 0.2em 0.7em;
-  margin: 0.4em;
-}
-
-#logo_clair {
-  border: 1px solid #878787;
-}
-
-#logo_red {
-  border: 0;
-  color: white;
-  background-color: #E74255;
-}
-
-
 
 /* Titres h2 avec lignes sur les côtés */
 
@@ -144,53 +60,24 @@ h2>em {
   font-style: normal;
 }
 
-/* boutons */
 
-.btn {
-  display: inline-block;
-  text-decoration: none;
-  border:1px solid #E74255;
-  padding: 0.5em 0.8em 0.4em 0.8em;
-  margin: 1em;
-  box-shadow: 0 1px 2px 0 rgba(0,0,0,0.2);
-}
-
-.btn-red, .btn-white:hover{
-  background-color: #E74255;
-  color: white;
-}
-
-.btn-white, .btn-red:hover{
-  background-color: white;
+/* Liens */
+a {
   color:#E74255;
-}
-
-#btn_menu { /*bouton menu smartphone*/
-  float: right;
-  padding: 0.4em 0.7em 0.2em 0.7em;
-  margin: 0.4em;
-}
-
-/* Menu principal */
-
-#menu{
-  list-style-type:none;
-  text-align: center;
-  font-size: 1.2rem;
-  text-transform: uppercase;
-  padding: 0;
-}
-
-#menu a {
   text-decoration: none;
-  color:inherit;
-  padding: 0.5em 0.2em 0.2em 0.2em;
-  line-height: 2em;
 }
 
-#menu a:hover, #menu .actif {
-  background-color: #E74255;
-  color:white;
+a:visited {
+  color: #E7949E;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Paragraphes */
+p {
+  text-align: justify;
 }
 
 /* Sections */
@@ -199,6 +86,7 @@ h2>em {
   background-color: white;
   text-align: center;
   box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
+  padding: 2rem;
 }
 
 
@@ -206,143 +94,21 @@ header {
   width: 100%;
   position: fixed;
   top: 0;
-  text-align: center;
   z-index:1;
+}
+
+header ul {
+  /*margin-left: -2em;*/
+  list-style-type: none;
 }
 
 footer {
   font-size: 1rem;
   max-width:400px;
   margin: auto;
+  text-align: center;
 }
 
 footer p {
   text-align: center;
-  margin-top: 0;
-}
-
-footer>h2 {
-  font-size: 1em;
-  margin-bottom: 0;
-  text-transform: none;
-}
-
-/* media queries */
-@media (min-width:951px){ /*Encran large : TODO breakpoint à déterminer en fonction du nombre d'item du menu*/
-
-/* texte accueil sur la droite */
-#accueil body {
-  width: 66.66%;
-  float:right;
-}
-
-/*Taille du logo*/
-h1 {
-  font-size: 1.7em;
-}
-
-/* Menu écran large */
-#btn_menu {
-  display: none;
-}
-
-#menu li {
-  display: inline;
-}
-
-#menu li::before {
-  content:"—";
-  padding-right: 1em;
-  padding-left: 1em;
-  margin-left: -4px; /*décalage d'origine inconnue*/
-  padding-bottom: 1em;
-}
-
-#menu li:first-of-type::before {
-  content:"";
-  padding-left: 0;
-  margin-left: 0;
-}
-
-.container {
-  margin: 10rem auto auto auto;
-  padding: 2em;
-  width: 80%;
-}
-
-header {
-  padding-top: 0.4em;
-}
-
-
-}
-
-@media (max-width:950px) {
-
-  #accueil {
-    background-attachment: scroll;
-  }
-
-  #accueil-logo {
-    font-size: 1.7em;
-    text-align: center;
-    overflow: hidden;
-  }
-
-  #accueil-logo .logo {
-    margin: 20% 10% 20% 10%;
-    float: right;
-  }
-
-  header {
-    font-size: 1.3rem;
-    background-color: #EEEEEE;
-    color: #878787;
-  }
-
-  .logo {
-    float:left;
-    font-size: inherit;
-  }
-
-  #lyonvill {
-    display: none;
-  }
-
-  .container {
-    width:100%;
-    padding: 5.3rem 2rem 2rem 2rem;
-  }
-
-  /*---- Drop down menu ----*/
-
-  #btn_menu {
-    display: block;
-  }
-
-  /* sous le logo */
-  #menu {
-    clear:left;
-    background-color: #E4E4E4;
-    padding-top: 1em;
-    display:none;
-    box-shadow: inset 0 0 2px 0 rgba(0,0,0,0.2);
-  }
-
-  #menu.present {
-    display: block;
-  }
-}
-
-
-@media (max-width:460px) {
-
-  h2 {
-    white-space: normal; /*retour à la ligne des titres trop longs*/
-  }
-
-  footer h2 {
-    white-space: nowrap;
-  }
-
 }

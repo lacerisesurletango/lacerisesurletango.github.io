@@ -1,0 +1,109 @@
+@media (min-width:951px){ /*Encran large : TODO breakpoint à déterminer en fonction du nombre d'item du menu*/
+
+/*Taille du logo*/
+h1 {
+  font-size: 1.7em;
+}
+
+/* Menu écran large */
+#btn_menu {
+  display: none;
+}
+
+#menu li {
+  display: inline;
+}
+
+#menu li::before {
+  content:"—";
+  padding-right: 1em;
+  padding-left: 1em;
+  margin-left: -4px; /*décalage d'origine inconnue*/
+  padding-bottom: 1em;
+}
+
+#menu li:first-of-type::before {
+  content:"";
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.container {
+  margin: 10rem auto auto auto;
+  padding: 2em;
+  width: 80%;
+}
+
+header {
+  padding-top: 0.4em;
+}
+
+
+}
+
+@media (max-width:950px) {
+
+
+  #accueil-logo {
+    font-size: 1.7em;
+    text-align: center;
+    overflow: hidden;
+  }
+
+  #accueil-logo .logo {
+    margin: 20% 10% 20% 10%;
+    float: right;
+  }
+
+  header {
+    font-size: 1.3rem;
+    background-color: #EEEEEE;
+    color: #878787;
+  }
+
+  .logo {
+    float:left;
+    font-size: inherit;
+  }
+
+  #lyonvill {
+    display: none;
+  }
+
+  .container {
+    width:100%;
+    padding: 5.3rem 2rem 2rem 2rem;
+  }
+
+  /*---- Drop down menu ----*/
+
+  #btn_menu {
+    display: block;
+  }
+
+  /* sous le logo */
+  #menu {
+    clear:left;
+    background-color: #E4E4E4;
+    padding-top: 1em;
+    display:none;
+    box-shadow: inset 0 0 2px 0 rgba(0,0,0,0.2);
+  }
+
+  #menu.present {
+    display: block;
+  }
+}
+
+
+@media (max-width:460px) {
+
+  h2 {
+    white-space: normal; /*retour à la ligne des titres trop longs*/
+  }
+
+  footer h2 {
+    white-space: nowrap;
+  }
+
+}

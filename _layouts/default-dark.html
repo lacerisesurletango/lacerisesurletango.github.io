@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-  <body class="dark">
+  <body>
 
 
     {% include header.html %}
@@ -14,8 +14,9 @@
 
 
     <script>
-    document.querySelector(".dark").style.color = "white";
-    document.querySelector(".dark").style.backgroundColor = "black";
+    document.querySelector("body").style.color = "white";
+    document.querySelector("body").style.backgroundColor = "black";
+    document.querySelector(".container").style.backgroundColor = "transparent";
     </script>
   </body>
 
