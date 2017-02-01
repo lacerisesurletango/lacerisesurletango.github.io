@@ -1,0 +1,10 @@
+---
+layout: default
+---
+<ul id="listactu">
+  {% for post in site.posts %}
+    <li>
+      ⋄ {{ post.date | date: "%d/%m/%Y" }} - <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
