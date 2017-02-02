@@ -44,17 +44,6 @@ header {
 @media (max-width:950px) {
 
 
-  #accueil-logo {
-    font-size: 1.7em;
-    text-align: center;
-    overflow: hidden;
-  }
-
-  #accueil-logo .logo {
-    margin: 20% 10% 20% 10%;
-    float: right;
-  }
-
   header {
     font-size: 1.3rem;
     background-color: #EEEEEE;
