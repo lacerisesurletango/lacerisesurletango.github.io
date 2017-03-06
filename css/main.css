@@ -56,7 +56,7 @@ h2::after { left: 1.5%; }
 
 /* Pour agrandir des parties de titre avec <em> */
 h2>em {
-  font-size: 1.3em; /*30% plus grand que h2*/
+  font-size: 1.6em; /*30% plus grand que h2*/
   font-style: normal;
 }
 
@@ -78,6 +78,14 @@ a:hover {
 /* Paragraphes */
 p {
   text-align: justify;
+}
+
+/* divers tags */
+address {
+  padding-left: 1em;
+  text-align: left;
+  border-left: 1px solid;
+  white-space: pre-line;
 }
 
 /* Sections */
