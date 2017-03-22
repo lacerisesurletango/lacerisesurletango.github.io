@@ -1,5 +1,10 @@
 @media (min-width:951px){ /*Encran large : TODO breakpoint à déterminer en fonction du nombre d'item du menu*/
 
+/* Colonnes */
+.lg-2-col {
+  width: 50%;
+}
+
 /*Taille du logo*/
 h1 {
   font-size: 1.7em;
@@ -42,6 +47,10 @@ header {
 }
 
 @media (max-width:950px) {
+
+  .sm-hidden {
+    display:none;
+  }
 
 
   header {
