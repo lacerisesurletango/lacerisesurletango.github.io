@@ -75,6 +75,13 @@ a:hover {
   text-decoration: underline;
 }
 
+/* Truc pour que les liens internes fonctionnent malgré la barre de menu*/
+a:target {
+display:block;
+height:200px; /* fixed header height*/
+/*margin:-200px 0 0; /* negative fixed header height */
+}
+
 /* Paragraphes */
 p {
   text-align: justify;

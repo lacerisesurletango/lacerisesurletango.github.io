@@ -30,6 +30,14 @@
   color:inherit;
 }
 
+/* sous-menu raccourcis */
+.raccourcis {
+  position: fixed;
+  left:21%;
+  top: 200px;
+  background-color: white;
+}
+
 /* Actualités */
 #listactu {
   text-align: left;
