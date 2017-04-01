@@ -35,6 +35,7 @@ h1,h2,h3,h4,h5 {
 
 h2 {
   display: table;
+  margin: 2em 0 2em 0;
   white-space: nowrap;
   text-transform: uppercase;
   line-height: 1.5em; /*règlage de la hauteur des traits à droite et à gauche*/
@@ -150,6 +151,8 @@ article .post-meta {
 img {
   display: block;
   margin: 0 auto; /*centrées par défaut*/
+  width: 100%;
+  max-width: 600px;
 }
 
 .illustration {
@@ -158,6 +161,35 @@ img {
 .illustration>img{
   max-width: 100%;
   max-height: 500px;
+}
+
+/* Tableau */
+ table {
+   border: 2px solid #E74255;
+   padding: 0;
+   text-align: center;
+   border-collapse: collapse;
+ }
+
+ tr {
+   height: 2em;
+ }
+
+ tr:nth-child(even) {background-color: #EEEEEE}
+
+ th {
+   padding: 0.3em 1em 0.3em 1em;
+   background-color: #E74255;
+   color:white;
+ }
+
+
+
+/* Layout : colonne centrée*/
+
+.colonne-centre  {
+  margin:auto;
+  max-width:700px;
 }
 
 /* Pour le grid layout https://css-tricks.com/dont-overthink-it-grids/*/
