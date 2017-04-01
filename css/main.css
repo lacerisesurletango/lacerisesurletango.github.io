@@ -151,8 +151,6 @@ article .post-meta {
 img {
   display: block;
   margin: 0 auto; /*centrées par défaut*/
-  width: 100%;
-  max-width: 600px;
 }
 
 .illustration {
