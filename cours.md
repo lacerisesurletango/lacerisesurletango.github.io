@@ -154,63 +154,65 @@ Livre d’or
 
 Avis déposé le 15 décembre 2016
 
-Hello à tous les amoureux de la danse, pour les plus à l'aise et les
+> Hello à tous les amoureux de la danse, pour les plus à l'aise et les
 moins à l'aise, franchement je recommande le cours de Laure et Xavier!
 Ils sont très pédagogues, passionnées par cet art qu'est le Tango et
 d'une infinie gentillesse! Ce sont des anges! ils transmettent un super
 état d'esprit! Alors si vous voulez passer de chouettes moments de
-détentes, venez nous rejoindre l'année prochaine! Par Charlotte G. -
+détentes, venez nous rejoindre l'année prochaine!
+>
+> Charlotte G. -
 cours niveau 1
 
 Avis déposé le jeudi 27 août 2015
 
-"Une danse magnifique et sensuelle où l'écoute est reine" Le tango est
+> "Une danse magnifique et sensuelle où l'écoute est reine" Le tango est
 une danse magnifique et sensuelle, d’écoute et de technique. Les
 professeurs incarnent à merveille ces éléments avec douceur et rigueur.
 N’hésitez pas à venir faire cette belle rencontre avec le monde
 merveilleux du tango.
-
-Par Louise - Cours Intermédiaire
+>
+> Louise - Cours Intermédiaire
 
 Avis déposé le vendredi 21 août 2015
 
-"Rigueur, respect et bonne humeur" Le tango est une danse sensuelle et
+> "Rigueur, respect et bonne humeur" Le tango est une danse sensuelle et
 harmonieuse mais son apprentissage demande du travail et de la
 patience.Les professeurs de la cerise sur le tango incarnent et
 transmettent le tango avec méthode et dans un très bon état d'esprit.Les
 cours sont des rendez vous très attendus chaque semaine, le plaisir
 prime et la progression respecte le rythme de chacun.Je recommande ce
 cours. Laetitia
-
-Par Laetitia V - Cours Débutant
+>
+> Laetitia V - Cours Débutant
 
 Avis déposé le mardi 18 août 2015
 
-"Du tango dans la joie et la bonne humeur" Des profs hyper sympa, à
+> "Du tango dans la joie et la bonne humeur" Des profs hyper sympa, à
 l’écoute et accessibles... + des élèves qui aiment danser et rire = des
 cours de tango dans une ambiance conviviale et chaleureuse ... alors
 venez vite! à bientôt Charlène Ps : merci à tous les 2, Laure et Xavier,
-pour votre patiente et votre pédagogie! \^\^
-
-Par Charlène B - Cours Intermédiaire
+pour votre patiente et votre pédagogie! ^^
+>
+>  Charlène B - Cours Intermédiaire
 
 Avis déposé le mercredi 13 août 2014
 
-"Excellentes leçons" Les professeurs sont à l'écoute de leurs élèves et
+> "Excellentes leçons" Les professeurs sont à l'écoute de leurs élèves et
 prennent le temps nécessaire pour que chacun progresse et puisse
 perfectionner sa technique. L'équipe dirigeante propose de nombreuses
 soirées pour découvrir d'autres associations et d'autres danseurs ! Je
 recommande fortement de venir participer aux cours ! Possibilité de
 venir une première fois pour découvrir ;).
-
-Par Aldric - Cours Débutant
+>
+> Aldric - Cours Débutant
 
 Avis déposé le mercredi 13 août 2014
 
-"L'essence du tango en toute simplicité" Mieux vaut faire court plutôt
+> "L'essence du tango en toute simplicité" Mieux vaut faire court plutôt
 que de longs discours... Des profs sympathiques,dynamiques.à l'écoute et
 pédagogue. Des cours bien structurés,du vrai tango argentin!des cours
 conçus pour les sorties en milonga! Une ambiance décontractée Bref un
 beau moment de tango!!!!
-
-Par Géraldine B - Cours Débutant
+>
+> Géraldine B - Cours Débutant

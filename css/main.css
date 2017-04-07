@@ -186,7 +186,12 @@ img {
    color:white;
  }
 
-
+/* Citations */
+blockquote {
+  border-left: 0.5em solid #8EC8A8;
+  padding-left: 1em;
+  font-style: italic;
+}
 
 /* Layout : colonne centrée*/
 
