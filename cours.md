@@ -27,7 +27,7 @@ Pour danseurs de niveau intermédiaire-avancé, maîtrisant les fondamentaux sui
 15 rue Louis Adam
 69100 Villeurbanne
 </address>
-(métro République / Charpennes)
+<img src="/img/metro.svg" alt="Accès métro" class="icon"/> République, Charpennes
 
 <img src="/img/boca.jpg" style="width:100%;" alt="La salle">
 

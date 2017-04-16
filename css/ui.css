@@ -138,3 +138,12 @@ input, textarea {
    top:400px;  /* your iframe height */
    margin-top:-400px;  /* your iframe height */
 }
+
+/*Icone metro*/
+.icon{
+float:left;
+height:30px;
+position: relative;
+top:-7px;
+margin-right: 5px;
+}
