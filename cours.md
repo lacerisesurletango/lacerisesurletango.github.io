@@ -88,6 +88,38 @@ bal, contactez directement : Xavier Bacher Tél. 06 19 31 02 56
 
 ## Livre d’or
 
+[Antoine Segault](https://www.facebook.com/segault) a donné son avis sur [La
+Cerise sur le Tango Lyon](https://www.facebook.com/lacerisesurletangolyon/?ref=page_internal) - **5
+étoiles**
+
+>[5 mars 2017](https://www.facebook.com/segault/posts/10155193621319701:0) - Nous avons commencé les cours avec Laure et Xavier dans le cadre de la
+préparation de l'ouverture de notre mariage. Nous y avons trouvé un vrai
+plaisir qui nous a conduit à continuer les cours avec leur association.
+Leurs cours permettent d'approfondir dans les détails le tango argentin, le
+tout dans une très bonne ambiance.
+Pour ceux qui souhaitent débuter ou continuer cette danse je vous invite à
+nous rejoindre.
+
+
+[Charlotte Garcia](https://www.facebook.com/charlotte.garcia.777) a donné
+son avis sur [La Cerise sur le Tango Lyon](https://www.facebook.com/lacerisesurletangolyon/?ref=page_internal) - **5
+étoiles**
+
+>[15 décembre 2016](https://www.facebook.com/charlotte.garcia.777/posts/10155122801788455:0) - Hello à tous les amoureux de la danse, pour les plus à l'aise et les moins
+à l'aise, franchement je recommande le cours de Laure et Xavier! Ils sont
+très pédagogues, passionnées par cet art qu'est le Tango et d'une infinie
+gentillesse! Ce sont des anges! ils transmettent un super état d'esprit!
+Alors si vous voulez passer de chouettes moments de détentes, venez nous
+rejoindre l'année prochaine!
+
+[Michel Fulcrand](https://www.facebook.com/michel.fulcrand) a donné son avis
+sur [La Cerise sur le Tango Lyon](https://www.facebook.com/lacerisesurletangolyon/?ref=page_internal) - **5 étoiles**
+
+>[28 août 2016](https://www.facebook.com/michel.fulcrand/posts/10205201395233832:0) - Laure et Xavier nous font partager leur passion du tango argentin avec
+compétences, sourire et patience, tout en restant à notre écoute, dans une
+ambiance amicale. Venez nombreuses et nombreux nous rejoindre!
+
+<hr/>
 
 Avis déposé le 15 décembre 2016
 
