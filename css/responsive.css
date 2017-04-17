@@ -1,5 +1,9 @@
 @media (min-width:951px){ /*Encran large : TODO breakpoint à déterminer en fonction du nombre d'item du menu*/
 
+.lg-hidden {
+  display:none;
+}
+
 /* Colonnes */
 .lg-2-col {
   width: 50%;
@@ -62,6 +66,11 @@ header {
   .logo {
     float:left;
     font-size: inherit;
+  }
+
+  #minilogo {
+    float:left;
+    padding-left:20px;
   }
 
   #lyonvill {
