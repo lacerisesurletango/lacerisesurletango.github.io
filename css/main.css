@@ -22,7 +22,6 @@ body {
   color:#878787;
   background-color: #EEEEEE;
   font-family: 'Lato', sans-serif;
-  text-align: center;
   transition: background-color 3s ease, color 3s ease; /*transistions en cas de changement (ex. thème sombre)*/
 }
 
