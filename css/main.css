@@ -209,7 +209,6 @@ blockquote {
 /* Pour le grid layout https://css-tricks.com/dont-overthink-it-grids/*/
 [class*='-col'] {
   float: left;
-  padding: 2em;
   width: 100%;
 }
 
@@ -221,3 +220,17 @@ blockquote {
 .ligne {
   margin-bottom: 60px;
 }
+
+/* Videos */
+
+.video {
+  width:100%;
+  min-height: 315px;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+.video-caption {
+  padding:0 2em 0 2em;
+  text-align:center;
+  }
