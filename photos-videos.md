@@ -1,5 +1,7 @@
 ---
 layout: photo-video
+title: Photos & Vidéos
+excerpt: L'association, les cours et les professeurs en images !
 ---
 
 ## Un cours au Théatre du Gai Savoir

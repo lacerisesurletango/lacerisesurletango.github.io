@@ -1,5 +1,7 @@
 ---
 layout: centered
+title: Les cours
+excerpt: Horaires, lieux, tarifs, calendrier. Toutes les infos pour partir du bon pied.
 ---
 
 ## Horaires

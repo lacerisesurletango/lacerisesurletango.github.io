@@ -1,5 +1,7 @@
 ---
 layout: centered
+title: Le tango argentin
+excerpt: Philosophie et idées reçues sur le tango argentin.
 ---
 
 ## Le tango argentin
