@@ -234,3 +234,14 @@ blockquote {
   padding:0 2em 0 2em;
   text-align:center;
   }
+
+/*Vis à vis*/
+
+.flow-block {
+  display: inline-block;
+  vertical-align: middle;
+  width: 45%;
+  padding: 1em;
+  min-width: 200px;
+  margin-bottom: 8em; 
+}

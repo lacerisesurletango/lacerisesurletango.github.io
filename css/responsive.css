@@ -47,6 +47,11 @@ h1 {
 
 @media (max-width:1149px) {
 
+  .flow-block {
+    width:100%;
+    margin-bottom: 5em; 
+  }
+
   .sm-hidden {
     display:none;
   }
