@@ -142,9 +142,9 @@ input, textarea {
 /*Icone metro*/
 .icon{
 float:left;
-height:30px;
+height:15px;
 position: relative;
-top:-7px;
+top:1px;
 margin-right: 5px;
 }
 
