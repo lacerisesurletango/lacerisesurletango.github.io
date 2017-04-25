@@ -75,6 +75,11 @@
   background-color: #B01419;
 }
 
+#minilogo {
+  position: fixed;
+  left:20px;
+}
+
 /* Boutons */
 .btn {
   display: inline-block;
@@ -116,7 +121,7 @@ a.btn-white, a.btn-red:hover{
   display: none;
   float: right;
   padding: 0.4em 0.7em 0.2em 0.7em;
-  margin: 0.4em;
+  margin: 0.6em;
 }
 
 /* Formulaire */
