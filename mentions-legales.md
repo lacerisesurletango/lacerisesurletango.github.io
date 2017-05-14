@@ -16,4 +16,4 @@ Tel. 0619310256
 
 Responsable de la publication Adélie Contet
 
-Coordonnées de l'hébergeur du site : nom, dénomination ou raison sociale, adresse et numéro de téléphone
+Hébergeur : [GitHub Inc.](http://www.github.com)
