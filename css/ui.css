@@ -30,14 +30,6 @@
   /*color:inherit;*/
 }
 
-/* sous-menu raccourcis */
-.raccourcis {
-  position: fixed;
-  left:21%;
-  top: 200px;
-  background-color: white;
-}
-
 /* Actualités */
 #listactu {
   text-align: left;
@@ -53,28 +45,7 @@
   text-align: center;
 }
 
-
 /* Logos */
-.logo {
-  display:inline-block; /* pour encadrer */
-  font-style: italic;
-  font-weight:100;
-  color:#878787;
-  /*font size hérité de h1*/
-  padding: 0.4em 0.7em 0.2em 0.7em;
-  margin: 0.4em;
-}
-
-#logo_clair {
-  border: 1px solid #878787;
-}
-
-#logo_red {
-  border: 0;
-  color: white;
-  background-color: #B01419;
-}
-
 #minilogo {
   position: fixed;
   left:20px;

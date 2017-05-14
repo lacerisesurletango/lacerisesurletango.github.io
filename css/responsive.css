@@ -9,11 +9,6 @@
   width: 50%;
 }
 
-/*Taille du logo*/
-h1 {
-  font-size: 1.7em;
-}
-
 /* Menu écran large */
 #btn_menu {
   display: none;
@@ -49,7 +44,7 @@ h1 {
 
   .flow-block {
     width:100%;
-    margin-bottom: 5em; 
+    margin-bottom: 5em;
   }
 
   .sm-hidden {
@@ -61,10 +56,6 @@ h1 {
     color: #878787;
   }
 
-  .logo {
-    float:left;
-    font-size: inherit;
-  }
 
   #lyonvill {
     display: none;
