@@ -18,3 +18,6 @@ url: "http://lacerisesurletango.fr/" # the base hostname & protocol for your sit
 
 # Build settings
 markdown: kramdown
+
+sass:
+    style: compressed
