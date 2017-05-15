@@ -1,4 +1,6 @@
-/* Style de base */
+/* ------------
+Style de base
+--------------*/
 
 /* Couleurs
 #878787; gris foncé
@@ -81,13 +83,6 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Truc pour que les liens internes fonctionnent malgré la barre de menu*/
-a:target {
-display:block;
-height:200px; /* fixed header height*/
-/*margin:-200px 0 0; /* negative fixed header height */
-}
-
 /* Paragraphes */
 p {
   text-align: justify;
@@ -96,14 +91,13 @@ p {
 /* Listes */
 ul {
   text-align: left;
-  /*list-style: none;*/
 }
 
 li {
   margin: 0.3em;
 }
 
-/* divers tags */
+/* divers styles */
 address {
   padding-left: 1em;
   text-align: left;
@@ -111,9 +105,20 @@ address {
   white-space: pre-line;
 }
 
+article .post-meta {
+  text-align: center;
+}
+
+blockquote {
+  border-left: 0.5em solid #8EC8A8;
+  padding-left: 1em;
+  font-style: italic;
+}
+
 /* Sections */
 
-.container { /* pour le contenu principal */
+/* Pour le contenu principal */
+.container {
   background-color: white;
   text-align: center;
   box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
@@ -121,22 +126,17 @@ address {
   overflow: auto;
 }
 
-
-body>header {
+/*En-tête pour menu nav*/
+header {
   width: 100%;
   background-color: inherit;
   box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
   position: fixed;
   top: 0;
   z-index:1;
-  /*transition: background-color 3s ease;*/
 }
 
-body>header ul {
-  /*margin-left: -2em;*/
-  list-style-type: none;
-}
-
+/*Pied de page*/
 footer {
   color:inherit;
   font-size: 1rem;
@@ -149,23 +149,24 @@ footer p {
   text-align: center;
 }
 
-article .post-meta {
-  text-align: center;
-}
-
 /* Images */
 img {
   display: block;
   margin: 0 auto; /*centrées par défaut*/
 }
 
-.illustration {
-  margin: auto;
+/* Videos */
+.video {
+  width:100%;
+  min-height: 315px;
+  padding-left: 1em;
+  padding-right: 1em;
 }
-.illustration>img{
-  max-width: 100%;
-  max-height: 500px;
-}
+
+.video-caption {
+  padding:0 2em 0 2em;
+  text-align:center;
+  }
 
 /* Tableau */
  table {
@@ -192,15 +193,8 @@ img {
    color:white;
  }
 
-/* Citations */
-blockquote {
-  border-left: 0.5em solid #8EC8A8;
-  padding-left: 1em;
-  font-style: italic;
-}
 
 /* Layout : colonne centrée*/
-
 .colonne-centre  {
   margin:auto;
   max-width:700px;
@@ -221,21 +215,7 @@ blockquote {
   margin-bottom: 60px;
 }
 
-/* Videos */
-
-.video {
-  width:100%;
-  min-height: 315px;
-  padding-left: 1em;
-  padding-right: 1em;
-}
-
-.video-caption {
-  padding:0 2em 0 2em;
-  text-align:center;
-  }
-
-/*Vis à vis*/
+/*Vis à vis (page association.html)*/
 
 .flow-block {
   display: inline-block;
@@ -243,5 +223,279 @@ blockquote {
   width: 45%;
   padding: 1em;
   min-width: 200px;
-  margin-bottom: 8em; 
+  margin-bottom: 8em;
+}
+
+/*UI elements*/
+
+/* Menu */
+#menu{
+  list-style-type:none;
+  text-align: center;
+  /*font-size: 1.2rem;*/
+  text-transform: uppercase;
+  padding: 0;
+}
+
+#menu a {
+  text-decoration: none;
+  color:inherit;
+  padding: 0.3em 0.2em 0.2em 0.2em;
+  line-height: 2em;
+}
+
+#menu a:hover, #menu .actif {
+  background-color: #B01419;
+  color:white;
+}
+
+
+/* Mini Menu */
+#minimenu {
+  text-align: center;
+}
+
+#minimenu a, #minimenu a:visited{
+  font-weight: bold;
+  /*color:inherit;*/
+}
+
+/* Actualités */
+#listactu {
+  text-align: left;
+  list-style-type: none;
+}
+
+#listactu li {
+  padding : 0.5em 0 0.5em 0;
+}
+
+#listactu p {
+  display: inline;
+  text-align: center;
+}
+
+/* Logos */
+#minilogo {
+  position: fixed;
+  left:20px;
+}
+
+/* Boutons */
+.btn {
+  display: inline-block;
+  border:1px solid #B01419;
+  padding: 0.5em 0.8em 0.4em 0.8em;
+  margin: 1em;
+  box-shadow: 0 1px 2px 0 rgba(0,0,0,0.2);
+}
+
+.btn-red, .btn-white:hover{
+  background-color: #B01419;
+  color: white;
+}
+
+.btn-white, .btn-red:hover{
+  background-color: white;
+  color:#B01419;
+}
+
+/* si les boutons sont des liens */
+a.btn {
+    text-decoration: none;
+}
+
+a:active.btn {
+  box-shadow: 0 0 0 0; /*Supprime l'ombre lors du clic (enfoncement)*/
+}
+
+a.btn-red, a:visited.btn-red {
+  color:white;
+}
+
+a.btn-white, a.btn-red:hover{
+  background-color: white;
+  color:#B01419;
+}
+
+#btn_menu { /*bouton menu smartphone*/
+  display: none;
+  float: right;
+  padding: 0.4em 0.7em 0.2em 0.7em;
+  margin: 0.6em;
+}
+
+/* Formulaire */
+fieldset {
+  border-style: none;
+}
+
+input, textarea {
+  width: 50%;
+  min-width: 300px;
+}
+
+/* Désactive le scroll sur la carte*/
+.mapoverlay {
+   background:transparent;
+   position:relative;
+   width:700px;
+   height:400px; /* your iframe height */
+   top:400px;  /* your iframe height */
+   margin-top:-400px;  /* your iframe height */
+}
+
+/*Icone metro*/
+.icon{
+float:left;
+height:15px;
+position: relative;
+top:1px;
+margin-right: 5px;
+}
+
+/* Gallery */
+
+.gallery {
+  overflow: auto;
+}
+
+.gallery>a {
+  display: block;
+  width: 16.667%;
+  float:left;
+  padding: 0 5px 0 5px;
+  margin-top:20px;
+}
+
+.gallery>a>img {
+  width:100%;
+  border: 1px solid transparent;
+}
+
+.gallery>a>img:hover {
+  border: 1px solid white;
+}
+
+@media (max-width:950px) {
+  .gallery>a {
+  width: 20%;
+}
+}
+
+@media (max-width:600px) {
+  .gallery>a {
+  width: 33.33%;
+}
+}
+
+@media (max-width:400px) {
+  .gallery>a {
+  width: 50%;
+}
+}
+
+/*Media queries*/
+
+@media (min-width:1150px){
+
+  .lg-hidden {
+    display:none;
+  }
+
+  /* Colonnes */
+  .lg-2-col {
+    width: 50%;
+  }
+
+  /* Menu écran large */
+  #btn_menu {
+    display: none;
+  }
+
+  #menu li {
+    display: inline;
+  }
+
+  #menu li::before {
+    content:"—";
+    padding-right: 1em;
+    padding-left: 1em;
+    margin-left: -4px; /*décalage d'origine inconnue*/
+    padding-bottom: 1em;
+  }
+
+  #menu li:first-of-type::before {
+    content:"";
+    padding-left: 0;
+    margin-left: 0;
+  }
+
+  .container {
+    margin: 2rem auto auto auto;
+    padding: 2em;
+    width: 80%;
+  }
+
+}
+
+@media (max-width:1149px) {
+
+  .flow-block {
+    width:100%;
+    margin-bottom: 5em;
+  }
+
+  .sm-hidden {
+    display:none;
+  }
+
+
+  header {
+    color: #878787;
+  }
+
+
+  #lyonvill {
+    display: none;
+  }
+
+  .container {
+    width:100%;
+    padding: 5.3rem 2rem 2rem 2rem;
+  }
+
+  /*---- Drop down menu ----*/
+
+  #btn_menu {
+    display: block;
+  }
+
+  /* sous le logo */
+  #menu {
+    clear:both;
+    background-color: #E4E4E4;
+    padding-top: 1em;
+    display:none;
+    box-shadow: inset 0 0 2px 0 rgba(0,0,0,0.2);
+    position: relative;
+    top:10px;
+  }
+
+  #menu.present {
+    display: block;
+  }
+}
+
+
+@media (max-width:460px) {
+
+  h2 {
+    white-space: normal; /*retour à la ligne des titres trop longs*/
+  }
+
+  footer h2 {
+    white-space: nowrap;
+  }
+
 }

@@ -26,7 +26,7 @@ body {
 }
 
 
-@media (min-width:1150px){ /*Encran large : TODO breakpoint à déterminer en fonction du nombre d'item du menu*/
+@media (min-width:1150px){
 
 /* texte accueil sur la droite */
 body {
