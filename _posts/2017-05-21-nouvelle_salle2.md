@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nouvelle salle pour les cours !"
+title:  "Nouvelle salle pour les cours 2017 !"
 date:   2017-05-21
 categories: actu
 ---
