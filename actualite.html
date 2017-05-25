@@ -5,7 +5,7 @@ excerpt: Tout ce que nous avons fait, ce que nous faisons et ce que nous ferons 
 ---
 
 
-{% for post in site.posts %}
+{% for post in site.posts limit:5 %}
   <h2>
     {{ post.date | date: "%d/%m/%Y" }} ⋄ <a href="{{ post.url }}">{{ post.title }}</a>
   </h2>
