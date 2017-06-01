@@ -2,14 +2,13 @@
 
 layout: post
 
-title:  "Stages à l'Isle d'Abeau : Ida Tango invite Laure et Xavier"
+title:  "Stages à l'Isle d'Abeau"
 
 date:   2016-05-06
 categories: actu
 
 ---
-
-
+Ida Tango invite Laure et Xavier
 
 <img src="/img/laure-xavier-ida-tango-la-cerise-sur-le-tango.jpg" style="width:100%;" alt="Stage IDA Tango">
 
@@ -26,6 +25,3 @@ A partir de 20h - Pratique ouverte(5)
 *Centre Social Michel Colucci (Salle Van Gogh) 3 Rue des Fouilleuses, 38080 L'Isle-d'Abeau*
 
 Contact : idatango38@gmail.com
-
-
-
