@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "La Cerise sur le Tango prépare sa rentrée !"
+date:   2014-09-01
+categories: actu
+---
+Entrez dans la danse les **18 et 25 septembre** : le *cours d’essai est à 3€*. Venez seuls ou à deux !
+
+Les cours de tango argentin auront toujours lieu tous les jeudis soirs au théâtre du Gai Savoir, 94 rue des Charmettes (Lyon 6e).
+
+Pour en savoir plus, consultez la rubrique *Infos pratiques.*
+
+<img src="/img/la-cerise-sur-le-tango-flyer-rentree-2014-recto-verso.jpg" style="width:100%;" alt="Rentrée 2014">
