@@ -7,4 +7,6 @@ categories: actu
 
 Une *nouvelle rubrique* fait son apparition sur le site. Venez y découvrir les photos de la Milonguita du 23 octobre dernier.
 
+boi
+
 <img src="/img/photo2_h.jpg" style="width:100%;" alt="Milonguita et nouvelle rubrique">
