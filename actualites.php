@@ -1,6 +1,5 @@
 <?php
-/* Ceci produira une erreur. Notez la sortie ci-dessus,
- * qui se trouve avant l'appel à la fonction header() */
-header('Location: /actualite.html');
-exit;
+header("Status: 301 Moved Permanently", false, 301);
+header("Location: /actualite.html");
+exit();
 ?>
