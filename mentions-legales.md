@@ -10,7 +10,7 @@ Registre National des Associations : W691083829
 
 Siège : 3 rue du lac 69003 Lyon
 
-Coordonnées : contact@lacerisesurletango.fr
+Coordonnées : contact(@)lacerisesurletango.fr
 
 Tel. 0619310256
 
