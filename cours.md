@@ -123,18 +123,6 @@ ambiance amicale. Venez nombreuses et nombreux nous rejoindre!
 
 <hr/>
 
-Avis déposé le 15 décembre 2016
-
-> Hello à tous les amoureux de la danse, pour les plus à l'aise et les
-moins à l'aise, franchement je recommande le cours de Laure et Xavier!
-Ils sont très pédagogues, passionnées par cet art qu'est le Tango et
-d'une infinie gentillesse! Ce sont des anges! ils transmettent un super
-état d'esprit! Alors si vous voulez passer de chouettes moments de
-détentes, venez nous rejoindre l'année prochaine!
->
-> Charlotte G. -
-cours niveau 1
-
 Avis déposé le jeudi 27 août 2015
 
 > "Une danse magnifique et sensuelle où l'écoute est reine" Le tango est
