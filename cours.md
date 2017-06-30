@@ -6,6 +6,7 @@ excerpt: Horaires, lieux, tarifs, calendrier. Toutes les infos pour partir du bo
 
 ## Horaires
 
+Les cours ont lieu les jeudis soir.
 
 **Cours niveau 1 : 18h30 - 19h45**
 
