@@ -56,8 +56,8 @@ justificatif).
 
 Saison 2017-2018 :
 
-- Fiche d’inscription (à venir)
-- Fiche d’adhésion (à venir)
+- <a href="/img/fiche-inscription-2017-2018.pdf" target="\_blank">Fiche d’inscription</a>
+- <a href="/img/fiche-adhesion-2017-2018.pdf" target="\_blank">Fiche d’adhésion</a>
 
 _Nous acceptons les inscriptions en solo sous réserve d'un certain
 équilibre hommes/femmes dans le groupe. Nous vous invitons à nous
