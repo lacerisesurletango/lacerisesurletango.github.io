@@ -20,6 +20,13 @@ excerpt: L'association, les cours et les professeurs en images !
      Laure et Xavier pour Radio Capsao, septembre 2016, Lyon
     </p>
   </div>
+
+  <div class="lg-2-col">
+    <iframe class="video" src="https://www.youtube-nocookie.com/embed/srbiQV9m4cg?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+    <p class="video-caption">
+     Laure et Xavier @ La Boca, juillet 2017
+    </p>
+  </div>
 </div>
 
 
