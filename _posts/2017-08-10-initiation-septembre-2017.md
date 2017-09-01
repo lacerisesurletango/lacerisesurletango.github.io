@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Initiation et rentrée 2017 "
-date:   2017-06-11
+date:   2017-08-10
 categories: actu
 ---
 
