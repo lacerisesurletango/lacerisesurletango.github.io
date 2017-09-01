@@ -22,7 +22,7 @@ excerpt: L'association, les cours et les professeurs en images !
   </div>
   
   <div class="lg-2-col">
-    <iframe class="video" src="https://www.youtube-nocookie.com/embed/BBRIwrvIOMI&t=8s?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+    <iframe class="video" src="https://www.youtube-nocookie.com/embed/BBRIwrvIOMI?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
     <p class="video-caption">
      Résumé stage de valse, avril 2016
     </p>
