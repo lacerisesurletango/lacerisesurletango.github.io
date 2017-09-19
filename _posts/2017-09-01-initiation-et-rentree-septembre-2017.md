@@ -5,7 +5,7 @@ date:   2017-09-01
 categories: actu
 ---
 
-Pour découvrur le **tango argentin** La Cerise sur le Tango vous propose **une initiation** le jeudi 14 septembre à 18h30 à La Boca, 15 rue Louis Adam à Villeurbanne.
+Pour découvrir le **tango argentin** La Cerise sur le Tango vous propose **une initiation** le jeudi 14 septembre à 18h30 à La Boca, 15 rue Louis Adam à Villeurbanne.
 Ouverture des inscriptions à l'issue de l'initiation.
 Entrée initiation: 2€
 
