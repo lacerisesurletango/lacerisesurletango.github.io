@@ -5,7 +5,7 @@ date:   2017-08-10
 categories: actu
 ---
 
-Pour découvrur le **tango argentin** La Cerise sur le Tango vous propose **une initiation** le jeudi 14 septembre. 
+Pour découvrir le **tango argentin** La Cerise sur le Tango vous propose **une initiation** le jeudi 14 septembre. 
 
 Entrée : 2€
 
