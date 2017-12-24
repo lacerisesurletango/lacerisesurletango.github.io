@@ -40,6 +40,7 @@ Pour danseurs de niveau intermédiaire-avancé, maîtrisant les fondamentaux sui
 
 {% include tarifs.html %}
 
+**Abonnement à partir de janvier (prorata) : 195€, tarif réduit : 120€.**
 **+ adhésion à l'association de 20 €.**
 
 \* Tarif réduit pour les étudiants, les bénéficiaires du RSA et les
