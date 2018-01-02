@@ -9,4 +9,4 @@ Et si en 2018 vous commenciez le tango argentin ?! Rejoignez-nous à partir de j
 
 <img src="/img/La-Cerise-sur-le-Tango-2018.png" style="width:100%;" alt="Résumé de cours à la Boca">
 
-Infos sur les tarifs sur la page http://www.lacerisesurletango.fr/cours.html
+Infos sur les tarifs sur la page [*Les Cours*](http://www.lacerisesurletango.fr/cours.html)
