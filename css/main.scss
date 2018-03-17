@@ -231,6 +231,22 @@ img {
   margin-bottom: 8em;
 }
 
+.flow-block-40 {
+  display: inline-block;
+  vertical-align: middle;
+  width: 38%;
+  padding: 1em;
+  min-width: 200px;
+}
+
+.flow-block-60 {
+  display: inline-block;
+  vertical-align: middle;
+  width: 60%;
+  padding: 1em;
+  min-width: 200px;
+}
+
 /*UI elements*/
 
 /* Menu */
@@ -267,8 +283,9 @@ img {
 
 /* Actualités */
 #listactu {
-  text-align: left;
+  text-align: justify;
   list-style-type: none;
+  padding: 0;
 }
 
 #listactu li {
@@ -457,6 +474,15 @@ margin-right: 5px;
   .flow-block {
     width:100%;
     margin-bottom: 5em;
+  }
+
+  .flow-block-40 {
+    width:100%;
+    margin-bottom: 1em;
+  }
+  .flow-block-60 {
+    width:100%;
+    margin-bottom: 1em;
   }
 
   .sm-hidden {

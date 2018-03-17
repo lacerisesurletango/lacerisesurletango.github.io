@@ -6,16 +6,22 @@ excerpt: Apprenez le tango argentin en toute convivialité !
 
 <h2>Breaking <em>news</em></h2>
 
-<ul id="listactu">
-  {% for post in site.posts limit:1 %}
-    <li>
-      ⋄ {{ post.date | date: "%d/%m/%Y" }} - <a href="/actualite.html">{{ post.title }}</a> - {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
+{% for post in site.posts limit:1 %}
+<div class="flow-block-40" style="max-width:500px;">
+  <a href="/actualite.html"><img src="{{ post.image }}" alt="{{post.title}}" style="width:100%;box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.5);"></a>
+</div>
+
+<div class="flow-block-60" id="listactu" >
+  <p style:"text-align: justify;">⋄ {{ post.date | date: "%d/%m/%Y" }} <a href="/actualite.html">{{ post.title }}</a> <br/> {{ post.excerpt }}</p>
+</div>
+{% endfor %}
+
+<div style="width:100%">
+  <a href="/actualite.html" class="btn btn-white" style="clear: both;">Actualités</a>
+</div>
 
 
-<a href="/actualite.html" class="btn btn-white">Actualités</a>
+
 
 <h2>Les <em>cours</em> de <em>tango</em></h2>
 
