@@ -46,3 +46,5 @@ Aucune prédisposition physique n'est nécessaire mais si vous avez pratiqué la
 ### La posture est contraignante : FAUX
 
 Les danseurs de tango ont une posture particulière, gainée et souple en même temps. Dans nos cours, nous travaillons dans le respect des lignes du corps et de l'équilibre. La cambrure des femmes est naturellement amplifiée par le port des talons. Avec une bonne posture on ne souffre pas du dos, au contraire c'est un très bon moyen de faire travailler en douceur les muscles posturaux et l'assouplissement de la colonne vertébrale avec la dissociation.
+
+<img src="/img/Tango_argentin_lyon.jpg" style="width:100%; padding:20px;" alt="Tango Argentin Lyon">
