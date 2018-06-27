@@ -36,7 +36,31 @@ excerpt: L'association, les cours et les professeurs en images !
   </div>
 </div>
 
+## Cours à La Boca
 
+<div id="lightgallery" class="gallery">
+  <a href="img/cours/01.jpg"><img src="img/cours/thumb_01.jpg" /></a>
+  <a href="img/cours/02.jpg"><img src="img/cours/thumb_02.jpg" /></a>
+  <a href="img/cours/03.jpg"><img src="img/cours/thumb_03.jpg" /></a>
+  <a href="img/cours/04.jpg"><img src="img/cours/thumb_04.jpg" /></a>
+  <a href="img/cours/05.jpg"><img src="img/cours/thumb_05.jpg" /></a>
+  <a href="img/cours/06.jpg"><img src="img/cours/thumb_06.jpg" /></a>
+  <a href="img/cours/07.jpg"><img src="img/cours/thumb_07.jpg" /></a>
+  <a href="img/cours/08.jpg"><img src="img/cours/thumb_08.jpg" /></a>
+  <a href="img/cours/09.jpg"><img src="img/cours/thumb_09.jpg" /></a>
+  <a href="img/cours/010.jpg"><img src="img/cours/thumb_010.jpg" /></a>
+  <a href="img/cours/011.jpg"><img src="img/cours/thumb_011.jpg" /></a>
+  <a href="img/cours/012.jpg"><img src="img/cours/thumb_012.jpg" /></a>
+  <a href="img/cours/013.jpg"><img src="img/cours/thumb_013.jpg" /></a>
+  <a href="img/cours/014.jpg"><img src="img/cours/thumb_014.jpg" /></a>
+  <a href="img/cours/015.jpg"><img src="img/cours/thumb_015.jpg" /></a>
+  <a href="img/cours/016.jpg"><img src="img/cours/thumb_016.jpg" /></a>
+  <a href="img/cours/017.jpg"><img src="img/cours/thumb_017.jpg" /></a>
+  <a href="img/cours/018.jpg"><img src="img/cours/thumb_018.jpg" /></a>
+  <a href="img/cours/019.jpg"><img src="img/cours/thumb_019.jpg" /></a>
+  <a href="img/cours/020.jpg"><img src="img/cours/thumb_020.jpg" /></a>
+  <a href="img/cours/021.jpg"><img src="img/cours/thumb_021.jpg" /></a>
+</div>
 
 ## Cours au Théatre du Gai Savoir
 
