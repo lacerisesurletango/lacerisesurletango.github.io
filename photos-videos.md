@@ -20,14 +20,14 @@ excerpt: L'association, les cours et les professeurs en images !
      Laure et Xavier pour Radio Capsao, septembre 2016, Lyon
     </p>
   </div>
-  
+
   <div class="lg-2-col">
     <iframe class="video" src="https://www.youtube-nocookie.com/embed/BBRIwrvIOMI?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
     <p class="video-caption">
      Résumé stage de valse, avril 2016
     </p>
   </div>
-  
+
   <div class="lg-2-col">
     <iframe class="video" src="https://www.youtube-nocookie.com/embed/5OLRn2WpiFk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
     <p class="video-caption">
@@ -38,7 +38,7 @@ excerpt: L'association, les cours et les professeurs en images !
 
 ## Cours à La Boca
 
-<div id="lightgallery" class="gallery">
+<div id="lightgallery_1" class="gallery">
   <a href="img/cours/01.jpg"><img src="img/cours/thumb_01.jpg" /></a>
   <a href="img/cours/02.jpg"><img src="img/cours/thumb_02.jpg" /></a>
   <a href="img/cours/03.jpg"><img src="img/cours/thumb_03.jpg" /></a>
@@ -64,7 +64,7 @@ excerpt: L'association, les cours et les professeurs en images !
 
 ## Cours au Théatre du Gai Savoir
 
-<div id="lightgallery" class="gallery">
+<div id="lightgallery_2" class="gallery">
   <a href="img/cours/1.jpg"><img src="img/cours/thumb_1.jpg" /></a>
   <a href="img/cours/2.jpg"><img src="img/cours/thumb_2.jpg" /></a>
   <a href="img/cours/3.jpg"><img src="img/cours/thumb_3.jpg" /></a>
