@@ -27,7 +27,8 @@ Pour danseurs de niveau intermédiaire-avancé, maîtrisant les fondamentaux sui
 
 
 <address><a href="http://laboca.fr" target="\_blank">La Boca</a>
-15 rue Louis Adam
+15 rue Louis Adam 
+(au fond de la cours à droite)
 69100 Villeurbanne
 </address>
 <img src="/img/metro.svg" alt="Accès métro" class="icon"/> République, Charpennes
@@ -40,14 +41,12 @@ Pour danseurs de niveau intermédiaire-avancé, maîtrisant les fondamentaux sui
 
 {% include tarifs.html %}
 
-**Abonnement à partir de janvier : 195€, tarif réduit : 120€.**
-
 **+ adhésion à l'association de 20 €.**
 
 \* Tarif réduit pour les étudiants, les bénéficiaires du RSA et les
 demandeurs d’emploi sur présentation d’un justificatif.
 
-Les cartes de 10 cours sont transformables en abonnement à l'année.
+L'abonnement au trimestre et la carte de 10 cours sont transformables en abonnement à l'année.
 Possibilité de paiement en 3 fois pour les abonnements à l’année. Les
 abonnements ne sont pas remboursables sauf en cas de mutation
 professionnelle ou pour raison médicale (sur présentation d'un
@@ -56,9 +55,9 @@ justificatif).
 
 ## Inscriptions
 
-Saison 2017-2018 :
+Saison 2018-2019 :
 
-- <a href="/img/fiche-inscription-2017-2018.pdf" target="\_blank">Fiche d’inscription</a>
+- <a href="/img/fiche-inscription-2018-2019.pdf" target="\_blank">Fiche d’inscription</a>
 
 _Nous acceptons les inscriptions en solo sous réserve d'un certain
 équilibre hommes/femmes dans le groupe. Nous vous invitons à nous
@@ -70,18 +69,23 @@ et de l'écoute._
 
 ## Calendrier
 
-Les cours débutent le jeudi 21 septembre 2017 et se terminent le jeudi
-14 juin 2018 inclus.
+Les cours débutent le jeudi 20 septembre 2018 et se terminent le jeudi
+13 juin 2018 inclus.
 
-Il n’y aura pas cours les jeudis suivants :
-
--   2 novembre­ - vacances de la Toussaint (il y aura cours le
-    26 octobre)
--   28 décembre et 4 janvier – vacances de Noël
--   15 et 22 février – vacances d'hiver
--   12 et 19 avril – vacances de printemps
--   10 mai ­jour férié
-
+**20 et 27 septembre
+4, 11, 18 et 25 octobre**
+vacances le jeudi 1 er novembre
+**8, 15, 22 et 29 novembre
+6, 13 et 20 décembre**
+vacances les 27 décembre et 3 janvier
+**10, 17, 24, 31 janvier
+7 et 14 février**
+vacances les 21 et 28 février
+**7, 14, 21 et 28 mars 
+4 et 11 avril**
+vacances les 18 et 25 avril
+**2, 9, 16, 23 et 30 mai
+6 et 13 juin**
 
 
 ## Cours particuliers
