@@ -28,7 +28,7 @@ Pour danseurs de niveau intermédiaire-avancé, maîtrisant les fondamentaux sui
 
 <address><a href="http://laboca.fr" target="\_blank">La Boca</a>
 15 rue Louis Adam 
-(au fond de la cours à droite)
+(au fond de la cour à droite)
 69100 Villeurbanne
 </address>
 <img src="/img/metro.svg" alt="Accès métro" class="icon"/> République, Charpennes
