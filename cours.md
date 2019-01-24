@@ -70,7 +70,7 @@ et de l'écoute._
 ## Calendrier
 
 Les cours débutent le jeudi 20 septembre 2018 et se terminent le jeudi
-13 juin 2018 inclus.
+13 juin 2019 inclus.
 
 **20 et 27 septembre
 4, 11, 18 et 25 octobre**
@@ -90,8 +90,8 @@ vacances les 18 et 25 avril
 
 ## Cours particuliers
 
-Pour toute demande de cours particuliers, préparation d’ouverture de
-bal, contactez directement : Xavier Bacher Tél. 06 19 31 02 56
+Pour toute demande de cours particuliers ou pour préparer l’ouverture de
+bal de votre mariage, contactez directement : Xavier Bacher Tél. 06 19 31 02 56
 
 
 ## Livre d’or
