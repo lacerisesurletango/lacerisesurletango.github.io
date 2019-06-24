@@ -7,6 +7,13 @@ excerpt: L'association, les cours et les professeurs en images !
 ## Demonstrations
 
 <div class="ligne">
+    <div class="lg-2-col">
+    <iframe class="video" src="https://www.youtube-nocookie.com/embed/UnPJUm6wM0Y?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+    <p class="video-caption">
+     Résumé stage de valse, avril 2016
+    </p>
+  </div>
+  
   <div class="lg-2-col"> <!-- 2 colonnes écran large ; 1 colonne écran petit -->
     <iframe class="video" src="https://www.youtube-nocookie.com/embed/srbiQV9m4cg?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
     <p class="video-caption">
@@ -18,13 +25,6 @@ excerpt: L'association, les cours et les professeurs en images !
     <iframe class="video" src="https://www.youtube-nocookie.com/embed/ZEsGfFiDsN8?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
     <p class="video-caption">
      Laure et Xavier pour Radio Capsao, septembre 2016, Lyon
-    </p>
-  </div>
-
-  <div class="lg-2-col">
-    <iframe class="video" src="https://www.youtube-nocookie.com/embed/UnPJUm6wM0Y?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-    <p class="video-caption">
-     Résumé stage de valse, avril 2016
     </p>
   </div>
 
