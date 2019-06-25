@@ -8,15 +8,10 @@ excerpt: Horaires, lieux, tarifs, calendrier. Toutes les infos pour partir du bo
 
 Les cours ont lieu les jeudis soir.
 
-**Cours niveau 1 : 18h30 - 19h45**
+**Cours niveau 1 : 18h45 - 20h**
 
 Pour tous ceux qui souhaitent aborder ou retravailler les bases du tango argentin : connexion, posture, technique, musicalité. Ce cours
 peut être suivi deux années de suite pour des bases solides.
-
-**Pratique partagée : 19h45 - 20h15**
-
-Espace de travail libre en présence des enseignants pour les deux
-niveaux.
 
 **Cours niveau 2 : 20h15 - 21h30**
 
@@ -55,9 +50,9 @@ justificatif).
 
 ## Inscriptions
 
-Saison 2018-2019 :
+Saison 2019-2020 :
 
-- <a href="/img/fiche-inscription-2018-2019.pdf" target="\_blank">Fiche d’inscription</a>
+- <a href="/img/fiche-inscription-2019-2020.pdf" target="\_blank">Fiche d’inscription</a>
 
 _Nous acceptons les inscriptions en solo sous réserve d'un certain
 équilibre hommes/femmes dans le groupe. Nous vous invitons à nous
@@ -69,23 +64,10 @@ et de l'écoute._
 
 ## Calendrier
 
-Les cours débutent le jeudi 20 septembre 2018 et se terminent le jeudi
-13 juin 2019 inclus.
+Les cours débutent le jeudi 19 septembre 2019 et se terminent le jeudi
+18 juin 2020 inclus.
 
-**20 et 27 septembre
-4, 11, 18 et 25 octobre**
-vacances le jeudi 1 er novembre
-**8, 15, 22 et 29 novembre
-6, 13 et 20 décembre**
-vacances les 27 décembre et 3 janvier
-**10, 17, 24, 31 janvier
-7 et 14 février**
-vacances les 21 et 28 février
-**7, 14, 21 et 28 mars 
-4 et 11 avril**
-vacances les 18 et 25 avril
-**2, 9, 16, 23 et 30 mai
-6 et 13 juin**
+**Vacances** Les vacances suivent le calendrier scolaire sauf pour la Toussaints : vacance uniquement le jeudi 31 octobre.
 
 
 ## Cours particuliers
