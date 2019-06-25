@@ -64,10 +64,10 @@ et de l'écoute._
 
 ## Calendrier
 
-Les cours débutent le jeudi 19 septembre 2019 et se terminent le jeudi
+Les cours débutent le **jeudi 19 septembre 2019** et se terminent le jeudi
 18 juin 2020 inclus.
 
-**Vacances** Les vacances suivent le calendrier scolaire sauf pour la Toussaints : vacance uniquement le jeudi 31 octobre.
+**Vacances** Les vacances suivent le calendrier scolaire sauf pour la Toussaints : vacances uniquement le jeudi 31 octobre.
 
 
 ## Cours particuliers
