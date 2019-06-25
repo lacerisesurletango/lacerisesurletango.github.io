@@ -8,7 +8,7 @@ excerpt: L'association, les cours et les professeurs en images !
 
 <div class="ligne">
     <div class="lg-2-col">
-    <iframe class="video" src="https://www.youtube-nocookie.com/embed/UnPJUm6wM0Y?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+    <iframe class="video" src="https://www.youtube-nocookie.com/embed/V18H-PMgQzg?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
     <p class="video-caption">
      Les cours de tango @ La Cerise sur le Tango, juin 2019
     </p>
