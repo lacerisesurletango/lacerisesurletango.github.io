@@ -79,9 +79,16 @@ bal de votre mariage, contactez directement : Xavier Bacher Tél. 06 19 31 02 56
 
 
 ## Livre d’or
+[Anaïs Hadeler](https://www.facebook.com/anais.hadeler) recommande la [La Cerise sur le Tango Lyon](https://www.facebook.com/lacerisesurletangolyon/?ref=page_internal)
 
-[Antoine Segault](https://www.facebook.com/segault) a donné son avis sur [La
-Cerise sur le Tango Lyon](https://www.facebook.com/lacerisesurletangolyon/?ref=page_internal) - **5
+>[3 juillet 2019](https://www.facebook.com/anais.hadeler/posts/10158760134699768) - Nous avons intégré le cours de Laure et Xavier en fin d'année. Malgré un décalage inévitable avec le reste 
+des élèves, c'est avec beaucoup de pédagogie, de patience et d'humour 
+que nous avons été guidés pendant ces premiers mois. Nous comptons 
+renouveler l'année prochaine l'expérience de cet apprentissage exigeant 
+qui est, chaque semaine, un réel moment de plaisir.
+
+[Antoine Segault](https://www.facebook.com/segault) a donné son avis 
+sur [La Cerise sur le Tango Lyon](https://www.facebook.com/lacerisesurletangolyon/?ref=page_internal) - **5
 étoiles**
 
 >[5 mars 2017](https://www.facebook.com/segault/posts/10155193621319701:0) - Nous avons commencé les cours avec Laure et Xavier dans le cadre de la
