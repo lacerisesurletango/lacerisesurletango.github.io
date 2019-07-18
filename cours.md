@@ -64,7 +64,7 @@ et de l'écoute._
 
 ## Calendrier
 
-**Initiation** le jeudi 12 septembre à 18h30 (2€/personne)
+**Initiation** le jeudi 12 septembre à 18h45 (2€/personne)
 
 Les cours débutent le **jeudi 19 septembre 2019** et se terminent le jeudi
 18 juin 2020 inclus.
