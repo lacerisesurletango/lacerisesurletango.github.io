@@ -92,11 +92,11 @@ qui est, chaque semaine, un réel moment de plaisir.
 >[30 juin 2019](https://www.facebook.com/beatrice.bustamente/posts/10218888929472258) - Laure et Xavier nous font partager leur passion dans une ambiance décontractée et chaleureuse. On adore !
 
 [Hugo Pellouin](https://www.facebook.com/hugo.pellouin) a donné son avis 
-sur [La Cerise sur le Tango Lyon](https://www.facebook.com/lacerisesurletangolyon/?ref=page_internal) - **5
+sur [La Cerise sur le Tango Lyon](https://www.facebook.com/hugo.pellouin/activity/922776771209991) le 1er septembre 2017 - **5
 étoiles**
 
 [Malika Verdier](https://www.facebook.com/malika.verdier) a donné son avis 
-sur [La Cerise sur le Tango Lyon](https://www.facebook.com/lacerisesurletangolyon/?ref=page_internal) - **5
+sur [La Cerise sur le Tango Lyon](https://www.facebook.com/malika.verdier/activity/10155006532443853) le 3 juillet 2017 - **5
 étoiles**
 
 [Antoine Segault](https://www.facebook.com/segault) a donné son avis 
