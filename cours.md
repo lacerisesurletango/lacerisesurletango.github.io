@@ -87,6 +87,18 @@ que nous avons été guidés pendant ces premiers mois. Nous comptons
 renouveler l'année prochaine l'expérience de cet apprentissage exigeant 
 qui est, chaque semaine, un réel moment de plaisir.
 
+[Béatrice Bustamente](https://www.facebook.com/beatrice.bustamente) recommande la [La Cerise sur le Tango Lyon](https://www.facebook.com/lacerisesurletangolyon/?ref=page_internal)
+
+>[30 juin 2019](https://www.facebook.com/beatrice.bustamente/posts/10218888929472258) - Laure et Xavier nous font partager leur passion dans une ambiance décontractée et chaleureuse. On adore !
+
+[Hugo Pellouin](https://www.facebook.com/hugo.pellouin) a donné son avis 
+sur [La Cerise sur le Tango Lyon](https://www.facebook.com/lacerisesurletangolyon/?ref=page_internal) - **5
+étoiles**
+
+[Malika Verdier](https://www.facebook.com/malika.verdier) a donné son avis 
+sur [La Cerise sur le Tango Lyon](https://www.facebook.com/lacerisesurletangolyon/?ref=page_internal) - **5
+étoiles**
+
 [Antoine Segault](https://www.facebook.com/segault) a donné son avis 
 sur [La Cerise sur le Tango Lyon](https://www.facebook.com/lacerisesurletangolyon/?ref=page_internal) - **5
 étoiles**
