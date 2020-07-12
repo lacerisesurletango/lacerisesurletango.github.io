@@ -6,6 +6,6 @@ categories: actu
 image: /img/tango-vercors-2020.jpg
 ---
 
-Une 4ème édition fit la part belle à la danse : A défaut de neige, les jambes des danseurs étaient disponibles pour les cours et la milonga ! Même si celle de Fred (le photographe) semblent ne pas vouloir le mener à destination...
+Une 4ème édition qui fit la part belle à la danse : à défaut de neige, les jambes des danseurs étaient disponibles pour les cours et la milonga ! Mais aussi de beaux moments de partage et de franche rigolade.
 
 <img src="/img/tango-vercors-2020.jpg" style="width:100%;" alt="photo du groupe stage Vercors 2020">
