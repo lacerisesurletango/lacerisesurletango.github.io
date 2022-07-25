@@ -6,27 +6,25 @@ excerpt: Horaires, lieux, tarifs, calendrier. Toutes les infos pour partir du bo
 
 ## Horaires
 
-Les cours ont lieu les jeudis soir.
+Les cours ont lieu les dimanches.
 
-**Cours niveau 1 : 18h45 - 20h**
+**Cours tous niveaux : 17h - 18h30**
 
 Pour tous ceux qui souhaitent aborder ou retravailler les bases du tango argentin : connexion, posture, technique, musicalité. Ce cours
 peut être suivi deux années de suite pour des bases solides.
 
-**Cours niveau 2 : 20h15 - 21h30**
-
-Pour danseurs de niveau intermédiaire-avancé, maîtrisant les fondamentaux suivants : marche en système droit et système croisé (ochos arrières), pivots, abrazo ouvert et fermé, contretemps.
+Pour danseurs de niveau intermédiaire-avancé qui ont déjà acquis les fondamentaux suivants : marche en système droit et système croisé (ochos arrières), pivots, abrazo ouvert et fermé, contretemps.
 
 
 ## La salle
 
 
 <address><a href="http://laboca.fr" target="\_blank">La Boca</a>
-15 rue Louis Adam 
-(au fond de la cour à droite)
-69100 Villeurbanne
+Salle des miroirs - école maternelle
+6 chemin de Maintenue
+69650 Saint Germain eu Mont d'Or
 </address>
-<img src="/img/metro.svg" alt="Accès métro" class="icon"/> République, Charpennes
+<img src="/img/blason-sgmo.png" alt="sgmo" class="icon"/> Mairie de Saint Germain au Mont d'Or
 
 <img src="/img/boca.jpg" style="width:100%;" alt="La salle">
 
@@ -36,12 +34,12 @@ Pour danseurs de niveau intermédiaire-avancé, maîtrisant les fondamentaux sui
 
 {% include tarifs.html %}
 
-**+ adhésion à l'association de 20 €.**
+**+ adhésion à l'association de 20 € (en cours de mise à jour).**
 
 \* Tarif réduit pour les étudiants, les bénéficiaires du RSA et les
 demandeurs d’emploi sur présentation d’un justificatif.
 
-L'abonnement au trimestre et la carte de 10 cours sont transformables en abonnement à l'année.
+L'abonnement au trimestre est transformable en abonnement à l'année.
 Possibilité de paiement en 3 fois pour les abonnements à l’année. Les
 abonnements ne sont pas remboursables sauf en cas de mutation
 professionnelle ou pour raison médicale (sur présentation d'un
@@ -50,9 +48,9 @@ justificatif).
 
 ## Inscriptions
 
-Saison 2019-2020 :
+Saison 2022-2023 :
 
-- <a href="/img/fiche-inscription-2019-2020.pdf" target="\_blank">Fiche d’inscription</a>
+- (en cours de mise à jour)<a href="/img/fiche-inscription-2019-2020.pdf" target="\_blank">Fiche d’inscription</a>
 
 _Nous acceptons les inscriptions en solo sous réserve d'un certain
 équilibre hommes/femmes dans le groupe. Nous vous invitons à nous
@@ -64,12 +62,11 @@ et de l'écoute._
 
 ## Calendrier
 
-**Initiation** le jeudi 12 septembre à 18h45 (2€/personne)
+**Initiation** le dimanche 18 septembre à 17h
 
-Les cours débutent le **jeudi 19 septembre 2019** et se terminent le jeudi
-18 juin 2020 inclus.
+Les cours débutent le **dimanche 25 septembre 2022**.
 
-**Vacances** Les vacances suivent le calendrier scolaire sauf pour la Toussaints : vacances uniquement le jeudi 31 octobre.
+**Vacances** Les vacances suivent le calendrier scolaire.
 
 
 ## Cours particuliers
