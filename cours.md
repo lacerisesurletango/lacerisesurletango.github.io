@@ -19,8 +19,8 @@ Pour danseurs de niveau intermédiaire-avancé qui ont déjà acquis les fondame
 ## La salle
 
 
-<address><a href="http://laboca.fr" target="\_blank">La Boca</a>
-Salle des miroirs - école maternelle
+<address>Salle des miroirs
+Ecole Françoise Dolto
 6 chemin de Maintenue
 69650 Saint Germain eu Mont d'Or
 </address>
@@ -34,7 +34,7 @@ Salle des miroirs - école maternelle
 
 {% include tarifs.html %}
 
-**+ adhésion à l'association de 20 € (en cours de mise à jour).**
+**+ adhésion à l'association (en cours de mise à jour).**
 
 \* Tarif réduit pour les étudiants, les bénéficiaires du RSA et les
 demandeurs d’emploi sur présentation d’un justificatif.
