@@ -26,21 +26,18 @@ Ecole Françoise Dolto
 </address>
 <img src="/img/blason-sgmo.png" alt="sgmo" class="icon"/> Mairie de Saint Germain au Mont d'Or
 
-<img src="/img/boca.jpg" style="width:100%;" alt="La salle">
-
 {% include map.html %}
 
 ## &nbsp;Tarifs&nbsp;
 
 {% include tarifs.html %}
 
-**+ adhésion à l'association (en cours de mise à jour).**
+**+ adhésion à l'association El Nitz Tango : 15€**
 
 \* Tarif réduit pour les étudiants, les bénéficiaires du RSA et les
 demandeurs d’emploi sur présentation d’un justificatif.
 
-L'abonnement au trimestre est transformable en abonnement à l'année.
-Possibilité de paiement en 3 fois pour les abonnements à l’année. Les
+L'abonnement au trimestre est transformable en abonnement à l'année. Les
 abonnements ne sont pas remboursables sauf en cas de mutation
 professionnelle ou pour raison médicale (sur présentation d'un
 justificatif).
@@ -65,8 +62,15 @@ et de l'écoute._
 **Initiation** le dimanche 18 septembre à 17h
 
 Les cours débutent le **dimanche 25 septembre 2022**.
-
-**Vacances** Les vacances suivent le calendrier scolaire.
+Octobre, cours les 2 et 16
+Novembre, cours les 6, 13, 20 et 27
+Décembre, cours les 4, 11 et 18
+Janvier, cours les 8, 15, 22 et 29
+Février, cours les 19 et 26
+Mars, cours les 5, 12, 19 et 26
+Avril, cours les 2, 9 et 23
+Mai, cours les 14, 21 et 28
+Juin, cours les 4, 11 et 18
 
 
 ## Cours particuliers
