@@ -16,6 +16,9 @@ peut être suivi deux années de suite pour des bases solides.
 Pour danseurs de niveau intermédiaire-avancé qui ont déjà acquis les fondamentaux suivants : marche en système droit et système croisé (ochos arrières), pivots, abrazo ouvert et fermé, contretemps.
 
 
+_Nous acceptons les inscriptions en solo sous réserve d'un certain équilibre hommes/femmes dans le groupe. Nous vous invitons à nous contacter pour nous informer que vous êtes à la recherche d'un partenaire de danse. Les danseurs qui le désirent sont invités à changer de partenaire durant le cours pour favoriser l'apprentissage du guidage et de l'écoute._
+
+
 ## La salle
 
 
@@ -41,20 +44,6 @@ L'abonnement au trimestre est transformable en abonnement à l'année. Les
 abonnements ne sont pas remboursables sauf en cas de mutation
 professionnelle ou pour raison médicale (sur présentation d'un
 justificatif).
-
-
-## Inscriptions
-
-Saison 2022-2023 :
-
-- (en cours de mise à jour)<a href="/img/fiche-inscription-2019-2020.pdf" target="\_blank">Fiche d’inscription</a>
-
-_Nous acceptons les inscriptions en solo sous réserve d'un certain
-équilibre hommes/femmes dans le groupe. Nous vous invitons à nous
-contacter pour nous informer que vous êtes à la recherche d'un
-partenaire de danse. Les danseurs qui le désirent sont invités à changer
-de partenaire durant le cours pour favoriser l'apprentissage du guidage
-et de l'écoute._
 
 
 ## Calendrier
