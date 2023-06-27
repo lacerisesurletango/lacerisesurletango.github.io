@@ -49,14 +49,23 @@ justificatif).
 **Initiation gratuite** le dimanche 17 septembre à 17h
 
 Les cours débutent le **dimanche 24 septembre 2023**.
+
 Octobre, cours les 1, 8, 15, 22
+
 Novembre, cours les 5, 12, 19, 26
+
 Décembre, cours les 3, 10, 17
+
 Janvier, cours les 7, 14, 21, 28
+
 Février, cours les 4, 11
+
 Mars, cours les 3, 10, 17, 24, 31
+
 Avril, cours les 7, 28
+
 Mai, cours les 5, 19, 26
+
 Juin, cours les 2, 9, 16
 
 
