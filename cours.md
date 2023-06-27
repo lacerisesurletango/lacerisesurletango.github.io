@@ -44,7 +44,7 @@ professionnelle ou pour raison médicale (sur présentation d'un
 justificatif).
 
 
-## Calendrier
+## Calendrier 2023-2024
 
 **Initiation gratuite** le dimanche 17 septembre à 17h
 
