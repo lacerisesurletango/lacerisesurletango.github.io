@@ -10,10 +10,9 @@ Les cours ont lieu les dimanches.
 
 **Cours tous niveaux : 17h - 18h30**
 
-Pour tous ceux qui souhaitent aborder ou retravailler les bases du tango argentin : connexion, posture, technique, musicalité. Ce cours
-peut être suivi deux années de suite pour des bases solides.
+- Pour tous ceux qui souhaitent aborder ou retravailler les bases du tango argentin : connexion, posture, technique, musicalité.
 
-Pour danseurs de niveau intermédiaire-avancé qui ont déjà acquis les fondamentaux suivants : marche en système droit et système croisé (ochos arrières), pivots, abrazo ouvert et fermé, contretemps.
+- Pour danseurs de niveau intermédiaire-avancé qui ont déjà acquis les fondamentaux suivants : marche en système droit et système croisé (ochos arrières), pivots, abrazo ouvert et fermé, contretemps.
 
 
 _Nous acceptons les inscriptions en solo sous réserve d'un certain équilibre hommes/femmes dans le groupe. Nous vous invitons à nous contacter pour nous informer que vous êtes à la recherche d'un partenaire de danse. Les danseurs qui le désirent sont invités à changer de partenaire durant le cours pour favoriser l'apprentissage du guidage et de l'écoute._
@@ -35,31 +34,30 @@ Ecole Françoise Dolto
 
 {% include tarifs.html %}
 
-**+ adhésion à l'association El Nitz Tango : 15€**
+**+ adhésion à l'association La Cerise sur le Tango : 15€**
 
 \* Tarif réduit pour les étudiants, les bénéficiaires du RSA et les
 demandeurs d’emploi sur présentation d’un justificatif.
 
-L'abonnement au trimestre est transformable en abonnement à l'année. Les
-abonnements ne sont pas remboursables sauf en cas de mutation
+Les abonnements ne sont pas remboursables sauf en cas de mutation
 professionnelle ou pour raison médicale (sur présentation d'un
 justificatif).
 
 
 ## Calendrier
 
-**Initiation** le dimanche 18 septembre à 17h
+**Initiation gratuite** le dimanche 17 septembre à 17h
 
-Les cours débutent le **dimanche 25 septembre 2022**.
-Octobre, cours les 2 et 16
-Novembre, cours les 6, 13, 20 et 27
-Décembre, cours les 4, 11 et 18
-Janvier, cours les 8, 15, 22 et 29
-Février, cours les 19 et 26
-Mars, cours les 5, 12, 19 et 26
-Avril, cours les 2, 9 et 23
-Mai, cours les 14, 21 et 28
-Juin, cours les 4, 11 et 18
+Les cours débutent le **dimanche 24 septembre 2023**.
+Octobre, cours les 1, 8, 15, 22
+Novembre, cours les 5, 12, 19, 26
+Décembre, cours les 3, 10, 17
+Janvier, cours les 7, 14, 21, 28
+Février, cours les 4, 11
+Mars, cours les 3, 10, 17, 24, 31
+Avril, cours les 7, 28
+Mai, cours les 5, 19, 26
+Juin, cours les 2, 9, 16
 
 
 ## Cours particuliers
