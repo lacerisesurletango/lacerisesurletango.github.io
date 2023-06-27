@@ -8,12 +8,13 @@ Association La Cerise sur le Tango
 
 Registre National des Associations : W691083829
 
-Siège : 3 rue du lac 69003 Lyon
+Siège : rue du Lurin 69650 Saint-Germain-au-Mont-d’Or
+
 
 Coordonnées : contact(@)lacerisesurletango.fr
 
 Tel. 0619310256
 
-Responsable de la publication Adélie Contet
+Responsable de la publication Laure Accadia
 
 Hébergeur : [GitHub Inc.](http://www.github.com)
