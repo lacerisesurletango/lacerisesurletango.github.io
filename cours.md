@@ -20,7 +20,7 @@ _Nous acceptons les inscriptions en solo sous réserve d'un certain équilibre h
 
 ## Garde d'enfants
 
-Une baby-sitter est prévue pour les jeunes enfants, dans la limite des places disponibles.
+Une baby-sitter est prévue sur place pour les jeunes enfants, dans la limite des places disponibles.
 Contactez-nous pour en savoir davantage.
 
 
