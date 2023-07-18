@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Saison tango 2023-2024"
+date:   2023-07-18
+categories: actu
+image: /img/2023-Flyer-tango-recto.png
+---
+
+Rentrée 2023 avec un cours unique tous niveaux les dimanches en fin d'après midi. Débutants bienvenus. Toutes les informations sont sur la page <a>**Les Cours**</a href="http://www.lacerisesurletango.fr/cours.html">.
+<img src="/img/2023-Flyer-tango-recto.png" style="width:100%;" alt="nouvelle saison tango - rentrée 2023">
