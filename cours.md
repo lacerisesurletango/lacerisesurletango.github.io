@@ -27,9 +27,8 @@ Contactez-nous pour en savoir davantage.
 ## La salle
 
 
-<address>Salle des miroirs
-Ecole Françoise Dolto
-6 chemin de Maintenue
+<address>Salle Georges Brassens
+chemin de Maintenue
 69650 Saint Germain eu Mont d'Or
 </address>
 <img src="/img/blason-sgmo.png" alt="sgmo" class="icon"/> Mairie de Saint Germain au Mont d'Or
