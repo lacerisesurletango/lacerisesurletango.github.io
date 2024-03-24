@@ -65,13 +65,13 @@ Janvier, cours les 7, 14, 21, 28
 
 Février, cours les 4, 11
 
-Mars, cours les 3, 10, 17, 24, 31
+Mars, cours les 3, 10, 17, 24
 
-Avril, cours les 7, 28
+Avril, cours les 7, 21 (à confirmer), 28
 
 Mai, cours les 5, 19, 26
 
-Juin, cours les 2, 9, 16
+Juin, cours les 2, 9, 16 (à confirmer)
 
 
 ## Cours particuliers
