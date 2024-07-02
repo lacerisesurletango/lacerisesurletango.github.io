@@ -8,7 +8,7 @@ excerpt: Horaires, lieux, tarifs, calendrier. Toutes les infos pour partir du bo
 
 Les cours ont lieu les dimanches.
 
-**Cours tous niveaux : 17h - 18h30**
+**Cours tous niveaux : 17h - 18h15**
 
 - Pour tous ceux qui souhaitent aborder ou retravailler les bases du tango argentin : connexion, posture, technique, musicalité.
 
@@ -27,9 +27,9 @@ Contactez-nous pour en savoir davantage.
 ## La salle
 
 
-<address>Salle Georges Brassens
-chemin de Maintenue
-69650 Saint Germain eu Mont d'Or
+<address>Maison des Associations
+  1 voie Nouvelle
+  69250 Albigny sur Saône
 </address>
 <img src="/img/blason-sgmo.png" alt="sgmo" class="icon"/> Mairie de Saint Germain au Mont d'Or
 
@@ -49,29 +49,32 @@ professionnelle ou pour raison médicale (sur présentation d'un
 justificatif).
 
 
-## Calendrier 2023-2024
+## Calendrier 2024-2025
 
-**Initiation gratuite** le dimanche 17 septembre à 17h
+**Cours d'essai gratuit**
 
-Les cours débutent le **dimanche 24 septembre 2023**.
+Les cours débutent le **dimanche 22 septembre 2024**. 
+Puis dates des cours :
 
-Octobre, cours les 1, 8, 15, 22
+Septembre : 29
 
-Novembre, cours les 5, 12, 19, 26
+Octobre : 6, 13, 20
 
-Décembre, cours les 3, 10, 17
+Novembre : 10, 17, 24
 
-Janvier, cours les 7, 14, 21, 28
+Décembre : 1, 8, 15, 22
 
-Février, cours les 4, 11
+Janvier : 12, 19, 26
 
-Mars, cours les 3, 10, 17, 24
+Février : 2, 9, 16, 23
 
-Avril, cours les 7, 21 (à confirmer), 28
+Mars : 16, 23, 30
 
-Mai, cours les 5, 19, 26
+Avril : 6, 13, 
 
-Juin, cours les 2, 9, 16 (à confirmer)
+Mai : 11, 18, 25
+
+Juin : 1, 8, 15, 22
 
 
 ## Cours particuliers
