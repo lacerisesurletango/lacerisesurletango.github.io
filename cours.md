@@ -31,7 +31,7 @@ Contactez-nous pour en savoir davantage.
   1 voie Nouvelle
   69250 Albigny sur Saône
 </address>
-<img src="/img/Maison-associations-Albigny-la-cerise-sur-le-tango.jpg" style="width:80%; padding:20px;"alt="Maison des associations d'Albigny su Saône"/> Maison des associations - Albigny sur Saône
+<img src="/img/Maison-associations-Albigny-la-cerise-sur-le-tango.jpg" style="width:80%; padding:20px;" alt="Maison des associations d'Albigny su Saône"/> Maison des associations - Albigny sur Saône
 
 {% include map.html %}
 
