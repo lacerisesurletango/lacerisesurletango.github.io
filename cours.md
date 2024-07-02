@@ -18,10 +18,9 @@ Les cours ont lieu les dimanches.
 _Nous acceptons les inscriptions en solo sous réserve d'un certain équilibre hommes/femmes dans le groupe. Nous vous invitons à nous contacter pour nous informer que vous êtes à la recherche d'un partenaire de danse. Les danseurs qui le désirent sont invités à changer de partenaire durant le cours pour favoriser l'apprentissage du guidage et de l'écoute._
 
 
-## Garde d'enfants
+## Organisation
 
-Une baby-sitter est prévue sur place pour les jeunes enfants, dans la limite des places disponibles.
-Contactez-nous pour en savoir davantage.
+Les cours sont assurés par deux couples de professeurs en alternance. En savoir plus : <a href="http://www.lacerisesurletango.fr/association.html">Les professeurs</a>
 
 
 ## La salle
