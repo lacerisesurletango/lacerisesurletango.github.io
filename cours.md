@@ -20,7 +20,7 @@ _Nous acceptons les inscriptions en solo sous réserve d'un certain équilibre h
 
 ## Organisation
 
-Les cours sont assurés par deux couples de professeurs en alternance. En savoir plus : <a href="http://www.lacerisesurletango.fr/association.html">Les professeurs</a>
+Les cours sont assurés par deux couples de professeurs en alternance. En savoir plus sur <a href="http://www.lacerisesurletango.fr/association.html">l'association et les professeurs.</a>
 
 
 ## La salle
