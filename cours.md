@@ -31,7 +31,7 @@ Contactez-nous pour en savoir davantage.
   1 voie Nouvelle
   69250 Albigny sur Saône
 </address>
-<img src="/img/blason-sgmo.png" alt="sgmo" class="icon"/> Mairie de Saint Germain au Mont d'Or
+<img src="/img/img/Maison-associations-Albigny-la-cerise-sur-le-tango.jpg" alt="Maison des associations d'Albigny su Saône"/> Maison des associations - Albigny sur Saône
 
 {% include map.html %}
 
