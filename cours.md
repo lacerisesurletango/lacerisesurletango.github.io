@@ -48,33 +48,35 @@ professionnelle ou pour raison médicale (sur présentation d'un
 justificatif).
 
 
-## Calendrier 2024-2025
+## Calendrier 2025-2026
+
+**Initiation pour les danseurs débutants le dimanche 14 septembre 2025 à 17h.**
+
+Les cours débutent le **dimanche 21 septembre 2025**. 
 
 **Cours d'essai gratuit**
 
-Les cours débutent le **dimanche 22 septembre 2024**. 
-Puis dates des cours :
+Dates des cours de la saison 25-26
 
-Septembre : 29
+Septembre : 28
 
-Octobre : 6, 13, 20
+Octobre : 5, 12, 19
 
-Novembre : 10, 17, 24
+Novembre : 9, 16, 23, 30
 
-Décembre : 1, 8, 15, 22
+Décembre : 7, 14
 
-Janvier : 12, 19, 26
+Janvier : 11, 18, 25
 
-Février : 2, 9, 16, 23
+Février : 1, 8
 
-Mars : 16, 23, 30
+Mars : 1, 8, 15, 22, 29
 
-Avril : 6, 13, 
+Avril : 5, 26 
 
-Mai : 11, 18, 25
+Mai : 10, 24, 31
 
-Juin : 1, 8, 15, 22
-
+Juin : 7, 14
 
 ## Cours particuliers
 
