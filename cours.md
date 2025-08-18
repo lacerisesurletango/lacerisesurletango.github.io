@@ -49,6 +49,7 @@ justificatif).
 
 Les cours et l'adhésion sont payable en ligne via le service HelloAsso :
 <a href="https://www.helloasso.com/associations/la-cerise-sur-le-tango-tango-des-monts-d-or/adhesions/cours-2025-2026" target=_blank>Page HelloAsso pour les cours</a>
+
 <a href="https://www.helloasso.com/associations/la-cerise-sur-le-tango-tango-des-monts-d-or/adhesions/adhesion-2025-2026" target=_blank>Page HelloAsso pour l'adhésion</a>
 
 ## Calendrier 2025-2026
