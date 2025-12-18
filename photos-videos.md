@@ -36,9 +36,39 @@ excerpt: L'association, les cours et les professeurs en images !
   </div>
 </div>
 
-## Cours à La Boca
+## Milonga Tango des Monts d'Or 2024
 
 <div id="lightgallery_1" class="gallery">
+  <a href="img/cours/21.jpg"><img src="img/cours/thumb_21.jpg" /></a>
+  <a href="img/cours/22.jpg"><img src="img/cours/thumb_22.jpg" /></a>
+  <a href="img/cours/23.jpg"><img src="img/cours/thumb_23.jpg" /></a>
+  <a href="img/cours/24.jpg"><img src="img/cours/thumb_24.jpg" /></a>
+  <a href="img/cours/25.jpg"><img src="img/cours/thumb_25.jpg" /></a>
+  <a href="img/cours/26.jpg"><img src="img/cours/thumb_26.jpg" /></a>
+  <a href="img/cours/27.jpg"><img src="img/cours/thumb_27.jpg" /></a>
+  <a href="img/cours/28.jpg"><img src="img/cours/thumb_28.jpg" /></a>
+  <a href="img/cours/29.jpg"><img src="img/cours/thumb_29.jpg" /></a>
+  <a href="img/cours/30.jpg"><img src="img/cours/thumb_30.jpg" /></a>
+  <a href="img/cours/31.jpg"><img src="img/cours/thumb_31.jpg" /></a>
+  <a href="img/cours/32.jpg"><img src="img/cours/thumb_32.jpg" /></a>
+  <a href="img/cours/33.jpg"><img src="img/cours/thumb_33.jpg" /></a>
+  <a href="img/cours/34.jpg"><img src="img/cours/thumb_34.jpg" /></a>
+  <a href="img/cours/35.jpg"><img src="img/cours/thumb_35.jpg" /></a>
+  <a href="img/cours/36.jpg"><img src="img/cours/thumb_36.jpg" /></a>
+  <a href="img/cours/37.jpg"><img src="img/cours/thumb_37.jpg" /></a>
+  <a href="img/cours/38.jpg"><img src="img/cours/thumb_38.jpg" /></a>
+  <a href="img/cours/39.jpg"><img src="img/cours/thumb_39.jpg" /></a>
+  <a href="img/cours/40.jpg"><img src="img/cours/thumb_40.jpg" /></a>
+  <a href="img/cours/41.jpg"><img src="img/cours/thumb_41.jpg" /></a>
+  <a href="img/cours/42.jpg"><img src="img/cours/thumb_42.jpg" /></a>
+  <a href="img/cours/43.jpg"><img src="img/cours/thumb_43.jpg" /></a>
+  <a href="img/cours/44.jpg"><img src="img/cours/thumb_44.jpg" /></a>
+  <a href="img/cours/45.jpg"><img src="img/cours/thumb_45.jpg" /></a>
+</div>
+
+## Cours à La Boca
+
+<div id="lightgallery_2" class="gallery">
   <a href="img/cours/01.jpg"><img src="img/cours/thumb_01.jpg" /></a>
   <a href="img/cours/02.jpg"><img src="img/cours/thumb_02.jpg" /></a>
   <a href="img/cours/03.jpg"><img src="img/cours/thumb_03.jpg" /></a>
@@ -64,7 +94,7 @@ excerpt: L'association, les cours et les professeurs en images !
 
 ## Cours au Théatre du Gai Savoir
 
-<div id="lightgallery_2" class="gallery">
+<div id="lightgallery_3" class="gallery">
   <a href="img/cours/1.jpg"><img src="img/cours/thumb_1.jpg" /></a>
   <a href="img/cours/2.jpg"><img src="img/cours/thumb_2.jpg" /></a>
   <a href="img/cours/3.jpg"><img src="img/cours/thumb_3.jpg" /></a>
