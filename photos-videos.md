@@ -39,7 +39,7 @@ excerpt: L'association, les cours et les professeurs en images !
 ## Milonga Tango des Monts d'Or 2024
 
 <div id="lightgallery_1" class="gallery">
-  <a href="img/cours/01.jpg"><img src="img/cours/thumbs_21.jpg" /></a>
+  <a href="img/cours/21.jpg"><img src="img/cours/thumbs_21.jpg" /></a>
   <a href="img/cours/22.jpg"><img src="img/cours/thumbs_22.jpg" /></a>
   <a href="img/cours/23.jpg"><img src="img/cours/thumbs_23.jpg" /></a>
   <a href="img/cours/24.jpg"><img src="img/cours/thumbs_24.jpg" /></a>
