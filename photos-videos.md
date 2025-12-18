@@ -53,7 +53,6 @@ excerpt: L'association, les cours et les professeurs en images !
   <a href="img/cours/32.jpg"><img src="img/cours/thumbs_32.jpg" /></a>
   <a href="img/cours/33.jpg"><img src="img/cours/thumbs_33.jpg" /></a>
   <a href="img/cours/34.jpg"><img src="img/cours/thumbs_34.jpg" /></a>
-  <a href="img/cours/35.jpg"><img src="img/cours/thumbs_35.jpg" /></a>
   <a href="img/cours/36.jpg"><img src="img/cours/thumbs_36.jpg" /></a>
   <a href="img/cours/37.jpg"><img src="img/cours/thumbs_37.jpg" /></a>
   <a href="img/cours/38.jpg"><img src="img/cours/thumbs_38.jpg" /></a>
