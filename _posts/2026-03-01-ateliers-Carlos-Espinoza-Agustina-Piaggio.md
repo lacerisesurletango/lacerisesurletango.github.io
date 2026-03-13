@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Ateliers Carlos Espinoza et Agustina Piaggio 2026"
-date:   2026-03-01
 categories: actu
 image: /img/ateliers-Carlos_Espinoza-Agustina-Piaggio.jpg
 ---
