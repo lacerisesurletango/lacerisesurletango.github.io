@@ -5,6 +5,7 @@ categories: actu
 image: /img/affiches-initiations-tango-2026.png
 ---
 **Essayer le tango argentin pendant l'été**
+
 La Cerise sur la Tango vous propose 3 initiations gratuites à Albigny cet été pour essayer une danse de couple élégante, centrée sur l'écoute et l'improvisation. 
 - ~~dim. 21 juin - 17h, salle du Lavoir~~ (annulée cause canicule)
 - jeu. 16 juillet - 20h, salle du Lavoir
