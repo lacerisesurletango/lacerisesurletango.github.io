@@ -4,27 +4,29 @@ title: Les cours
 excerpt: Horaires, lieux, tarifs, calendrier. Toutes les infos pour partir du bon pied.
 ---
 
-## Horaires
+## Organisation générale
+
+L'année est organisée en deux périodes. Période 1 : septembre-décembre; Période 2 : janvier-juin.
+Afin de permettre aux débutants d'aborder les bases du tango argentin, l'association programme un cours dédié d'une heure par semaine. Les danseurs débutants rejoindrons les danseurs du groupe tous niveaux à partir du mois de janvier. 
 
 Les cours ont lieu les dimanches.
 
-**Cours tous niveaux : 17h - 18h15**
-
-- Pour tous ceux qui souhaitent aborder ou retravailler les bases du tango argentin : connexion, posture, technique, musicalité.
-
-- Pour danseurs de niveau intermédiaire-avancé qui ont déjà acquis les fondamentaux suivants : marche en système droit et système croisé (ochos arrières), pivots, abrazo ouvert et fermé, contretemps.
-
-
-_Nous acceptons les inscriptions en solo sous réserve d'un certain équilibre hommes/femmes dans le groupe. Nous vous invitons à nous contacter pour nous informer que vous êtes à la recherche d'un partenaire de danse. Les danseurs qui le désirent sont invités à changer de partenaire durant le cours pour favoriser l'apprentissage du guidage et de l'écoute._
-
-
-## Organisation
-
 Les cours sont assurés par deux couples de professeurs en alternance. En savoir plus sur <a href="http://www.lacerisesurletango.fr/association.html">l'association et les professeurs.</a>
 
+## Horaires
+Les horaires sont différents pour la période 1 et la période 2.
+
+**Période 1**
+*Cours débutants: 16h30 - 17h30*
+- Pour tous ceux qui souhaitent découvrir ou retravailler les bases du tango argentin : connexion, posture, abrazo, systèmes droit et croisés, marche, contre-temps, pivots
+
+*Cours tous niveaux : 17h30 - 18h30*
+- Pour les danseurs qui veulent développer leur danse sur la connexion, la technique et la musicalité. Les cours abordent toujours un travail sur des éléments fondamentaux afin de construire sa technique sur des bases solides. La connexion, l'écoute, la précision, la stabilité, le confort dans l'abrazo et dans les déplacements sont recherchés. Un approfondissement technique est également travaillé sur 2 ou plusieurs cours consécutifs : croisés, pivots, tours, saccadas, barridas, ganchos, voleos... La musicalié et la créativité sont également abordés avec l'objectif de trouver du plaisir et des sensations dans sa danse.
+
+**Période 2** 
+*Cours tous niveaux : 17h - 18h15*
 
 ## La salle
-
 
 <address>Maison des Associations
   1 voie Nouvelle
@@ -52,6 +54,8 @@ Les cours et l'adhésion sont payables en ligne via le service HelloAsso :
 <a href="https://www.helloasso.com/associations/la-cerise-sur-le-tango-tango-des-monts-d-or/adhesions/cours-2025-2026" target=_blank>Page HelloAsso pour les cours</a>
 
 <a href="https://www.helloasso.com/associations/la-cerise-sur-le-tango-tango-des-monts-d-or/adhesions/adhesion-2025-2026" target=_blank>Page HelloAsso pour l'adhésion</a>
+
+_Nous acceptons les inscriptions en solo sous réserve d'un certain équilibre hommes/femmes dans le groupe. Nous vous invitons à nous contacter pour nous informer que vous êtes à la recherche d'un partenaire de danse. Les danseurs qui le désirent sont invités à changer de partenaire durant le cours pour favoriser l'apprentissage du guidage et de l'écoute._
 
 ## Calendrier 2025-2026
 
