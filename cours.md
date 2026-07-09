@@ -70,16 +70,7 @@ Les cours débutent le **dimanche 20 septembre 2025**.
 
 Dates des cours de la saison 2026-2027
 
-Septembre : 20, 27</br>
-Octobre : 4, 11, 18</br>
-Novembre : 1, 8, 15, 22, 29</br>
-Décembre : 6, 13</br>
-Janvier : 3, 10, 17, 24, 31</br>
-Février : 7, 28</br>
-Mars : 7, 14, 21, 28</br>
-Avril : 4, 25</br>
-Mai : 2, 9, 16, 23, 30</br>
-Juin : 6, 13</br>
+{% include date.html %}
 
 ## Cours particuliers
 
