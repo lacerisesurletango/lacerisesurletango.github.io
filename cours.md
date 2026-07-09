@@ -5,7 +5,7 @@ excerpt: Horaires, lieux, tarifs, calendrier. Toutes les infos pour partir du bo
 ---
 
 ## Organisation générale
-
+**Cours réguliers**
 L'année est organisée en deux périodes. Période 1 : septembre-décembre; Période 2 : janvier-juin.
 Afin de permettre aux débutants d'aborder les bases du tango argentin, l'association programme de septembre à décembre un cours dédié d'une heure par semaine. Les danseurs débutants rejoindrons les danseurs du groupe tous niveaux à partir du mois de janvier. 
 
@@ -13,7 +13,13 @@ Les cours ont lieu les dimanches.
 
 Les cours sont assurés par deux couples de professeurs en alternance. En savoir plus sur <a href="http://www.lacerisesurletango.fr/association.html">l'association et les professeurs.</a>
 
-## Horaires
+**Ateliers Maestros**
+L'association invite à nouveau Carlos Espinoza et Agustina Piaggio pour 4 ateliers dans l'année. Ils proposent d'explorer les fondamentaux de ce qui caractérise leur danse : dynamique, ancrage au sol, relief, expressivité, musicalité. 
+Les deux premières dates de l'année : 14 octobre et 9 décembre 2026.
+Horaires : 18h30 - 20h 
+Salle Henri St Pierre à Albigny. 
+
+## Horaires des cours
 Les horaires sont différents pour la période 1 et la période 2.
 
 **Période 1**
