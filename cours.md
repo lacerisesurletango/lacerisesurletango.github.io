@@ -7,7 +7,7 @@ excerpt: Horaires, lieux, tarifs, calendrier. Toutes les infos pour partir du bo
 ## Organisation générale
 
 L'année est organisée en deux périodes. Période 1 : septembre-décembre; Période 2 : janvier-juin.
-Afin de permettre aux débutants d'aborder les bases du tango argentin, l'association programme un cours dédié d'une heure par semaine. Les danseurs débutants rejoindrons les danseurs du groupe tous niveaux à partir du mois de janvier. 
+Afin de permettre aux débutants d'aborder les bases du tango argentin, l'association programme de septembre à décembre un cours dédié d'une heure par semaine. Les danseurs débutants rejoindrons les danseurs du groupe tous niveaux à partir du mois de janvier. 
 
 Les cours ont lieu les dimanches.
 
