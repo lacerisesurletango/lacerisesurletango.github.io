@@ -60,7 +60,7 @@ Les cours et l'adhésion sont payables en ligne via le service HelloAsso :
 
 _Nous acceptons les inscriptions en solo sous réserve d'un certain équilibre hommes/femmes dans le groupe. Nous vous invitons à nous contacter pour nous informer que vous êtes à la recherche d'un partenaire de danse. Les danseurs qui le désirent sont invités à changer de partenaire durant le cours pour favoriser l'apprentissage du guidage et de l'écoute._
 
-## Calendrier 2025-2026
+## Calendrier 2026-2027
 
 **Initiation pour les danseurs débutants le dimanche 13 septembre 2026 à 17h.**
 
