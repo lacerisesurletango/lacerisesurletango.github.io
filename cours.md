@@ -17,6 +17,7 @@ Les cours sont assurés par deux couples de professeurs en alternance. En savoir
 Les horaires sont différents pour la période 1 et la période 2.
 
 **Période 1**
+
 *Cours débutants: 16h30 - 17h30*
 - Pour tous ceux qui souhaitent découvrir ou retravailler les bases du tango argentin : connexion, posture, abrazo, systèmes droit et croisés, marche, contre-temps, pivots
 
@@ -24,7 +25,9 @@ Les horaires sont différents pour la période 1 et la période 2.
 - Pour les danseurs qui veulent développer leur danse sur la connexion, la technique et la musicalité. Les cours abordent toujours un travail sur des éléments fondamentaux afin de construire sa technique sur des bases solides. La connexion, l'écoute, la précision, la stabilité, le confort dans l'abrazo et dans les déplacements sont recherchés. Un approfondissement technique est également travaillé sur 2 ou plusieurs cours consécutifs : croisés, pivots, tours, saccadas, barridas, ganchos, voleos... La musicalié et la créativité sont également abordés avec l'objectif de trouver du plaisir et des sensations dans sa danse.
 
 **Période 2** 
+
 *Cours tous niveaux : 17h - 18h15*
+- Un seul groupe pour poursuivre l'année avec une attention particulière des professeurs à l'adaptation de leur pédagogie aux différents niveaux des danseurs. 
 
 ## La salle
 
@@ -59,33 +62,24 @@ _Nous acceptons les inscriptions en solo sous réserve d'un certain équilibre h
 
 ## Calendrier 2025-2026
 
-**Initiation pour les danseurs débutants le dimanche 14 septembre 2025 à 17h.**
+**Initiation pour les danseurs débutants le dimanche 13 septembre 2026 à 17h.**
 
-Les cours débutent le **dimanche 21 septembre 2025**. 
+Les cours débutent le **dimanche 20 septembre 2025**. 
 
 **Cours d'essai gratuit**
 
-Dates des cours de la saison 25-26
+Dates des cours de la saison 2026-2027
 
-Septembre : 28
-
-Octobre : 5, 12, 19
-
-Novembre : 9, 16, 23, 30
-
-Décembre : 7, 14
-
-Janvier : 11, 18, 25
-
-Février : 1, 8
-
-Mars : 1, 8, 15, 22, 29
-
-Avril : 5, 26 
-
-Mai : 10, 24, 31
-
-Juin : 7, 14
+Septembre : 20, 27</br>
+Octobre : 4, 11, 18</br>
+Novembre : 1, 8, 15, 22, 29</br>
+Décembre : 6, 13</br>
+Janvier : 3, 10, 17, 24, 31</br>
+Février : 7, 28</br>
+Mars : 7, 14, 21, 28</br>
+Avril : 4, 25</br>
+Mai : 2, 9, 16, 23, 30</br>
+Juin : 6, 13</br>
 
 ## Cours particuliers
 
