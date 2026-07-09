@@ -15,9 +15,10 @@ Les cours sont assurés par deux couples de professeurs en alternance. En savoir
 
 **Ateliers Maestros**
 L'association invite à nouveau Carlos Espinoza et Agustina Piaggio pour 4 ateliers dans l'année. Ils proposent d'explorer les fondamentaux de ce qui caractérise leur danse : dynamique, ancrage au sol, relief, expressivité, musicalité. 
+
 Les deux premières dates de l'année : 14 octobre et 9 décembre 2026.
-Horaires : 18h30 - 20h 
-Salle Henri St Pierre à Albigny. 
+
+Horaires : 18h30 - 20h à la Salle Henri St Pierre à Albigny. 
 
 ## Horaires des cours
 Les horaires sont différents pour la période 1 et la période 2.
