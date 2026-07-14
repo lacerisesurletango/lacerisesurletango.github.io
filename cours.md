@@ -4,30 +4,33 @@ title: Les cours
 excerpt: Horaires, lieux, tarifs, calendrier. Toutes les infos pour partir du bon pied.
 ---
 
-## Organisation générale
-**Cours réguliers**
+## Ateliers exceptionnels
 
-Les cours sont assurés par deux couples de professeurs en alternance avec généralement 2 cours consécutifs avec Hanna et Geoffray puis 2 cours avec Laure et Xavier. En savoir plus sur <a href="http://www.lacerisesurletango.fr/association.html">l'association et les professeurs.</a>
+L'association invite Carlos Espinoza et Agustina Piaggio pour 4 ateliers dans l'année. Ils proposent d'explorer les fondamentaux de ce qui caractérise leur danse : dynamique, ancrage au sol, relief, expressivité, musicalité. 
 
-**Ateliers Maestros**
+Dates : 14 octobre et 9 décembre 2026.
 
-L'association invite à nouveau Carlos Espinoza et Agustina Piaggio pour 4 ateliers dans l'année. Ils proposent d'explorer les fondamentaux de ce qui caractérise leur danse : dynamique, ancrage au sol, relief, expressivité, musicalité. 
+18h30 - 20h à la Salle Henri St Pierre à Albigny-sur-Saône. 
 
-Les deux premières dates de l'année : 14 octobre et 9 décembre 2026.
+## Cours réguliers les dimanches
+Les cours sont assurés par deux couples de professeurs en alternance : Hanna et Geoffray, Laure et Xavier. En savoir plus sur <a href="http://www.lacerisesurletango.fr/association.html">l'association et les professeurs.</a>
 
-Horaires : 18h30 - 20h à la Salle Henri St Pierre à Albigny. 
+**Nouveauté 2026 : Tango Now / 16h30 - 17h30 de septembre à décembre**  
 
-## Horaires des cours
-**Cours débutants : 16h30 - 17h30** Nouveauté 2026 : Programme débutants Tango Now de septembre à décembre. 
-- La Cerise sur le Tango propose, en partenariat Deseo Tango, le programme *Tango Now* un programme conçu pour se lancer de manière dynamique !
+Un programme spécial débutants de septembre à décembre idéalement conçu pour se lancer de manière dynamique à travers la découverte des pas essentiels et des techniques fondamentales, avec :
+
 -    12 semaines de cours pour découvrir les essentiels du tango
 -    12 vidéos récap pour avancer efficacement et ne rien rater en cas d'indisponibilité
 -    1 atelier avec des maestros d’envergure internationale
 -    1 entrée à notre grande milonga annuelle
-3 mois pour acquérir les bases du tango efficacement à travers la découverte des pas essentiels et des techniques fondamentales avec des cours collectifs en présentiel et des vidéos récap pour ne rien rater en cas d’indisponibilité.
+En partenariat avec Deseo Tango, école de tango argentin à Genève, Bulle, Lausanne.
 
 **Cours tous niveaux : 17h30 - 18h30**
-- Pour les danseurs qui ont déjà aquis les bases du tango argentin : connexion, posture, abrazo, systèmes droit et croisés, marche, contre-temps, pivots et qui veulent développer leur danse sur la connexion, la technique et la musicalité. Les cours abordent toujours un travail sur des éléments fondamentaux afin de construire sa technique sur des bases solides. La connexion, l'écoute, la précision, la stabilité, le confort dans l'abrazo et dans les déplacements sont recherchés. Un approfondissement technique est également travaillé sur 2 ou plusieurs cours consécutifs : croisés, tours, saccadas, barridas, ganchos, voleos... La musicalié et la créativité sont également abordés avec l'objectif de trouver du plaisir et des sensations dans sa danse.
+
+Pour les danseurs qui ont déjà aquis les bases du tango argentin : connexion, posture, abrazo, systèmes droit et croisé, marche, contre-temps, pivots et qui veulent développer leur danse. Les cours sont construits autour :
+- des fondamentaux afin d'assoir la technique sur des bases solides : connexion, écoute, précision, stabilité, confort dans l'abrazo et dans les déplacements.
+- de structures plus complexes et techniques : croisés, tours, saccadas, barridas, ganchos, voleos.
+- d'éléments d'interprétation : musicalié et créativité sont abordés pour plus de plaisir et de sensations de danse.
 
 ## La salle
 
@@ -43,16 +46,13 @@ Horaires : 18h30 - 20h à la Salle Henri St Pierre à Albigny.
 
 {% include tarifs.html %}
 
-**+ adhésion à l'association La Cerise sur le Tango : 15€**
-
 \* Tarif réduit pour les étudiants, les bénéficiaires du RSA et les
 demandeurs d’emploi sur présentation d’un justificatif.
 
-Les abonnements ne sont pas remboursables sauf en cas de mutation
-professionnelle ou pour raison médicale (sur présentation d'un
+Les abonnements ne sont pas remboursables sauf en cas de mutation professionnelle ou pour raison médicale (sur présentation d'un
 justificatif).
 
-Les cours et l'adhésion sont payables en ligne via le service HelloAsso :
+Inscription en ligne via le service HelloAsso :
 
 <a href="https://www.helloasso.com/associations/la-cerise-sur-le-tango-tango-des-monts-d-or/adhesions/cours-2025-2026" target=_blank>Page HelloAsso pour les cours</a>
 
