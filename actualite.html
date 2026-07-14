@@ -11,11 +11,5 @@ excerpt: Tout ce que nous avons fait, ce que nous faisons et ce que nous ferons 
   </h2>
   {{ post.content }}
 {% endfor %}
-{% for post in site.posts limit:15 %}
-  <h2>
-    {{ post.date | date: "%d/%m/%Y" }} ⋄ <a href="{{ post.url }}">{{ post.title }}</a>
-  </h2>
-  {{ post.content }}
-{% endfor %}
 
 <a href="/toutes-les-actu.html">Voir toutes les actualités</a>
