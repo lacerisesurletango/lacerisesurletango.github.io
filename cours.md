@@ -18,14 +18,17 @@ Les deux premières dates de l'année : 14 octobre et 9 décembre 2026.
 Horaires : 18h30 - 20h à la Salle Henri St Pierre à Albigny. 
 
 ## Horaires des cours
-Les horaires sont différents pour la période 1 et la période 2.
-
+Nouveauté 2026 : Programme débutants Tango Now de septembre à décembre. 
 **Cours débutants: 16h30 - 17h30**
-- La Cerise sur le Tango propose, en partenariat Deseo Tango, le programme *Tango Now* de 12 semaines pour acquérir les bases du tango efficacement à travers la découverte des pas essentiels et des techniques fondamentales avec des cours collectifs en présentiel et des vidéos récap pour ne rien rater en cas d’indisponibilité.
-- Pour tous ceux qui souhaitent découvrir ou retravailler les bases du tango argentin : connexion, posture, abrazo, systèmes droit et croisés, marche, contre-temps, pivots.
+- La Cerise sur le Tango propose, en partenariat Deseo Tango, le programme *Tango Now* un programme conçu pour se lancer de manière dynamique !
+-    12 semaines de cours pour découvrir les essentiels du tango
+-    12 vidéos récap pour avancer efficacement et ne rien rater en cas d'indisponibilité
+-    1 atelier avec des maestros d’envergure internationale
+-    1 entrée à notre grande milonga annuelle
+3 mois pour acquérir les bases du tango efficacement à travers la découverte des pas essentiels et des techniques fondamentales avec des cours collectifs en présentiel et des vidéos récap pour ne rien rater en cas d’indisponibilité.
 
 **Cours tous niveaux : 17h30 - 18h30**
-- Pour les danseurs qui veulent développer leur danse sur la connexion, la technique et la musicalité. Les cours abordent toujours un travail sur des éléments fondamentaux afin de construire sa technique sur des bases solides. La connexion, l'écoute, la précision, la stabilité, le confort dans l'abrazo et dans les déplacements sont recherchés. Un approfondissement technique est également travaillé sur 2 ou plusieurs cours consécutifs : croisés, pivots, tours, saccadas, barridas, ganchos, voleos... La musicalié et la créativité sont également abordés avec l'objectif de trouver du plaisir et des sensations dans sa danse.
+- Pour les danseurs qui ont déjà aquis les bases du tango argentin : connexion, posture, abrazo, systèmes droit et croisés, marche, contre-temps, pivots et qui veulent développer leur danse sur la connexion, la technique et la musicalité. Les cours abordent toujours un travail sur des éléments fondamentaux afin de construire sa technique sur des bases solides. La connexion, l'écoute, la précision, la stabilité, le confort dans l'abrazo et dans les déplacements sont recherchés. Un approfondissement technique est également travaillé sur 2 ou plusieurs cours consécutifs : croisés, tours, saccadas, barridas, ganchos, voleos... La musicalié et la créativité sont également abordés avec l'objectif de trouver du plaisir et des sensations dans sa danse.
 
 ## La salle
 
