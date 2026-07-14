@@ -18,7 +18,7 @@ Les deux premières dates de l'année : 14 octobre et 9 décembre 2026.
 Horaires : 18h30 - 20h à la Salle Henri St Pierre à Albigny. 
 
 ## Horaires des cours
-**Cours débutants: 16h30 - 17h30** Nouveauté 2026 : Programme débutants Tango Now de septembre à décembre. 
+**Cours débutants : 16h30 - 17h30** Nouveauté 2026 : Programme débutants Tango Now de septembre à décembre. 
 - La Cerise sur le Tango propose, en partenariat Deseo Tango, le programme *Tango Now* un programme conçu pour se lancer de manière dynamique !
 -    12 semaines de cours pour découvrir les essentiels du tango
 -    12 vidéos récap pour avancer efficacement et ne rien rater en cas d'indisponibilité
