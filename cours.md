@@ -12,6 +12,8 @@ Dates : 14 octobre et 9 décembre 2026.
 
 18h30 - 20h à la Salle Henri St Pierre à Albigny-sur-Saône. 
 
+<a href="https://www.helloasso.com/associations/la-cerise-sur-le-tango-tango-des-monts-d-or/evenements/ateliers-carlos-espinoza-et-agustina-piaggio-oct-et-dec">Billetterie sur HelloAsso</a>
+
 ## Cours réguliers les dimanches
 Les cours sont assurés par deux couples de professeurs en alternance : Hanna et Geoffray, Laure et Xavier. En savoir plus sur <a href="http://www.lacerisesurletango.fr/association.html">l'association et les professeurs.</a>
 
