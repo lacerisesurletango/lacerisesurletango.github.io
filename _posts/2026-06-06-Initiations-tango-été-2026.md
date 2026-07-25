@@ -4,10 +4,9 @@ title:  "Initiations tango été 2026"
 categories: actu
 image:
 ---
-La Cerise sur la Tango vous propose 3 initiations gratuites à Albigny cet été pour essayer une danse de couple élégante, centrée sur l'écoute et l'improvisation. Inscriptions avec le <a href="http://www.lacerisesurletango.fr/contact.html">formulaire de contact</a> ou par téléphone.
-- ~~dim. 21 juin - 17h, salle du Lavoir~~ (annulée cause canicule)
-- jeu. 16 juillet - 20h, salle du Lavoir
-- dim. 13 septembre - 17h, maison des associations
+La Cerise sur la Tango vous propose plusieurs initiations gratuites cet été pour essayer une danse de couple élégante, centrée sur l'écoute et l'improvisation. Inscriptions avec le <a href="http://www.lacerisesurletango.fr/contact.html">formulaire de contact</a> ou par téléphone.
+- jeu. 30 juillet - 17h30, La Bulle, Trévoux
+- dim. 13 septembre - 17h, Maison des associations, Albigny
 
 Retrouvez également la Cerise sur le tango le 4 juillet pour une intitiation dans la salle Pierre Poivre à Saint Romain au Mont d'Or lors d'une <a href="https://www.helloasso.com/associations/dunes-a-deux-gazelles/evenements/atelier-decouverte-du-tango">soirée organisée par l'association Dunes à deux Gazelles</a>.
 
