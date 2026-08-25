@@ -27,6 +27,8 @@ Un programme spécial débutants de septembre à décembre idéalement conçu po
 -    1 entrée à notre grande milonga annuelle
 En partenariat avec Deseo Tango, école de tango argentin à Genève, Bulle, Lausanne.
 
+<a href="https://www.helloasso.com/associations/la-cerise-sur-le-tango-tango-des-monts-d-or/adhesions/cours-2026-2027" target=_blank>Inscription via HelloAsso</a>, sélectionnez adhésion + Tango Now.
+
 **Cours tous niveaux : 17h30 - 18h30**
 
 Pour les danseurs qui ont déjà aquis les bases du tango argentin : connexion, posture, abrazo, systèmes droit et croisé, marche, contre-temps, pivots et qui veulent développer leur danse. Les cours sont construits autour :
@@ -56,9 +58,7 @@ justificatif).
 
 Inscription en ligne via le service HelloAsso :
 
-<a href="https://www.helloasso.com/associations/la-cerise-sur-le-tango-tango-des-monts-d-or/adhesions/cours-2025-2026" target=_blank>Page HelloAsso pour les cours</a>
-
-<a href="https://www.helloasso.com/associations/la-cerise-sur-le-tango-tango-des-monts-d-or/adhesions/adhesion-2025-2026" target=_blank>Page HelloAsso pour l'adhésion</a>
+<a href="https://www.helloasso.com/associations/la-cerise-sur-le-tango-tango-des-monts-d-or/adhesions/cours-2026-2027" target=_blank>Page HelloAsso pour les cours et l'adhésion</a>
 
 _Nous acceptons les inscriptions en solo sous réserve d'un certain équilibre hommes/femmes dans le groupe. Nous vous invitons à nous contacter pour nous informer que vous êtes à la recherche d'un partenaire de danse. Les danseurs qui le désirent sont invités à changer de partenaire durant le cours pour favoriser l'apprentissage du guidage et de l'écoute._
 
