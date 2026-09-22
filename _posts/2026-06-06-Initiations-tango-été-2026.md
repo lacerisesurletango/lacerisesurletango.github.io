@@ -10,4 +10,4 @@ La Cerise sur la Tango vous propose plusieurs initiations gratuites cet été po
 
 Retrouvez également la Cerise sur le tango le 4 juillet pour une intitiation dans la salle Pierre Poivre à Saint Romain au Mont d'Or lors d'une <a href="https://www.helloasso.com/associations/dunes-a-deux-gazelles/evenements/atelier-decouverte-du-tango">soirée organisée par l'association Dunes à deux Gazelles</a>.
 
-<img src="/img/affiches-initiations-tango-2026.png" style="width:100%;" alt="Initiations tango argentin gratuites à Albigny été 2026">
+<img src="/img/affiches-initiations-tango-2026.png" style="width:80%;" alt="Initiations tango argentin gratuites à Albigny été 2026">
